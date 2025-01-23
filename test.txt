@@ -1,0 +1,2501 @@
+.N 001
+.D 13/10/2024
+.C SCIENCES
+.T SpaceX réussit la récupération du premier étage de Starship, un pas vers la réutilisation. Les bras mécaniques de la tour de lancement de la mégafusée ont capturé le lanceur Super Heavy avant qu'il ne touche le sol, marquant une avancée pour l'entreprise spatiale d'Elon Musk.
+
+.N 002
+.D 13/10/2024
+.C SCIENCES
+.T Il y a 305 millions d'années, un mille-pattes de 2,60 mètres de long. On ignorait à quoi ressemblait la tête d'" Arthropleura ". L'analyse du premier fossile complet de l'animal, retrouvé en Saône-et-Loire, lève le voile sur cent cinquante ans de mystère.
+
+.N 003
+.D 13/10/2024
+.C SCIENCES
+.T Le juste prix, obsession de toujours des économistes. Eternelle question de la science économique, la détermination des prix a connu de nouveaux bouleversements théoriques avec l'émergence de la tarification dynamique dans la seconde moitié du XXᵉ siècle.
+
+.N 004
+.D 14/10/2024
+.C SCIENCES
+.T Les start-up du spatial doivent convaincre les investisseurs de la viabilité des projets déjà lancés. Depuis deux ans, le financement des jeunes entreprises du new space s'est stabilisé en France et dans le monde.
+
+.N 005
+.D 14/10/2024
+.C SCIENCES
+.T " Fort de ce nouveau "grand bond", SpaceX creuse un peu plus le fossé avec l'Europe, la Chine et ses concurrents américains ". La société d'Elon Musk a pour la première fois réussi à récupérer le premier étage " Super Heavy " de la fusée Starship, lors de son cinquième tir d'essai. Une avancée considérable qui permet à l'entreprise de réutiliser l'étage afin de réduire les coûts des lancements suivants, analyse Jean-Michel Bezat, journaliste économique au " Monde ".
+
+.N 006
+.D 14/10/2024
+.C SCIENCES
+.T La NASA envoie une sonde vers Europe, intrigant satellite de Jupiter. L'agence spatiale américaine a lancé lundi une mission pour explorer cette lune jovienne, qui pourrait abriter un océan et des gaz indispensables à la vie. La sonde devrait atteindre l'orbite de la planète géante en 2030.
+
+.N 007
+.D 14/10/2024
+.C SCIENCES
+.T Les ondes gravitationnelles secouent l'astrophysique. En 1916, Albert Einstein prédisait l'existence de ces témoins de la déformation de l'espace-temps. Cent ans plus tard, et après quatre campagnes de détection menées depuis neuf ans, environ 250 ondes gravitationnelles ont déjà été détectées. Retour sur les origines de cette découverte qui suscite l'enthousiasme des astrophysiciens.
+
+.N 008
+.D 14/10/2024
+.C SCIENCES
+.T LISA, le projet fou d'un mégadétecteur spatial d'ondes gravitationnelles. Le détecteur constitué de trois satellites espacés de 2,5 millions de kilomètres les uns des autres devrait s'envoler en 2035. Il captera notamment des fréquences bien plus basses que ses homologues terrestres.
+
+.N 009
+.D 15/10/2024
+.C SCIENCES
+.T Shane Gross remporte le Prix du photographe animalier de l'année. Honoré par le Muséum d'histoire naturelle de Londres, le photographe canadien a capturé, sous les nénuphars, une myriade de têtards de crapaud.
+
+.N 010
+.D 15/10/2024
+.C SCIENCES
+.T " La chronicisation des cancers métastatiques impose des défis pour les malades et la société ". Un collectif composé d'associations, de professionnels et d'acteurs de la santé exhorte, dans une tribune au " Monde ", les décideurs publics à une meilleure prise en charge des patients atteints de cancers étendus à plusieurs organes.
+
+.N 011
+.D 15/10/2024
+.C SCIENCES
+.T Les Bororo du Brésil réinterprètent, au Musée du quai Branly, les objets de la collection Claude et Dina Lévi-Strauss. Une délégation de ce peuple autochtone est venue à Paris, du 6 au 12 octobre, pour examiner des parures et objets cérémoniels qui furent collectés en 1935 et 1936, dans le Mato Grosso, par l'anthropologue français et sa première épouse. Leur objectif : " réveiller " leur culture " endormie par la colonisation ".
+
+.N 012
+.D 16/10/2024
+.C SCIENCES
+.T New space : le rêve, ou le mirage, d'un futur spatial pour l'humanité. A la croisée de dynamiques militaire, politique et industrielle, les programmes spatiaux des entreprises privées SpaceX ou Blue Origin véhiculent un imaginaire inspiré des œuvres de science-fiction.
+
+.N 013
+.D 16/10/2024
+.C SCIENCES
+.T La danse comme appui aux soins en psychiatrie. A la Maison de la danse de Lyon, un projet chorégraphique accompagne la prise en charge de jeunes de 18 à 25 ans, suivis après un premier épisode psychotique.
+
+.N 014
+.D 16/10/2024
+.C SCIENCES
+.T Une savoureuse taxonomie des pâtes farcies italiennes. Des chercheurs ont suivi une démarche méthodologique héritée de la biologie évolutive pour proposer une nouvelle classification des pâtes fourrées. La diversité des recettes se traduit par de nombreuses variations sur un même thème, explique Alice Lebreton dans sa carte blanche au " Monde ".
+
+.N 015
+.D 16/10/2024
+.C SCIENCES
+.T Projet de budget 2025 : le soulagement et la frustration des chercheurs. Dans le projet de loi de finance 2025, les crédits de la recherche et de l'enseignement supérieur sont épargnés, mais le contraste avec la priorité accordée à la haute fonction publique et les entreprises demeure, observe Philippe Askenazy dans sa chronique.
+
+.N 016
+.D 16/10/2024
+.C SCIENCES
+.T Pourquoi la science africaine est-elle aussi invisible ?. Dans le paysage académique mondial, l'Afrique est marginalisée. La faible indexation des revues scientifiques continentales rend le travail des chercheurs peu accessible.
+
+.N 017
+.D 17/10/2024
+.C SCIENCES
+.T Six sécheresses consécutives suffisent à créer une nouvelle espèce de pinson des Galapagos. Pas d'eau, des graines plus dures, des becs plus épais, des chants moins virtuoses : une équipe américaine a montré comment l'environnement pouvait conditionner l'évolution de ces petits passereaux.
+
+.N 018
+.D 17/10/2024
+.C SCIENCES
+.T A l'exposition " Géants ", à Toulouse, des animaux gigantesques reprennent corps. D'un paresseux de 4 tonnes à un serpent de 15 mètres, en passant par l'incontournable mammouth, une mégafaune préhistorique aux corps imposants est reconstituée au Muséum d'histoire naturelle.
+
+.N 019
+.D 17/10/2024
+.C SCIENCES
+.T Antiproportionnellement, l'énigme maths du " Monde " nᵒ 28. Chaque semaine, le mathématicien Mickaël Launay vous soumet un problème. A vous de jouer !
+
+.N 020
+.D 18/10/2024
+.C SCIENCES
+.T Le parfum des pins, cette arme contre les charançons. " La vie cachée des plantes ". Pour se protéger d'un ravageur, le pin sylvestre assure à son espèce une sorte d'" immunité collective " grâce à une modification de ses signaux chimiques d'alerte.
+
+.N 021
+.D 19/10/2024
+.C SCIENCES
+.T Les noyaux, l'énigme maths du " Monde " n° 30. Chaque semaine, le mathématicien Mickaël Launay vous soumet un problème. A vous de jouer !
+
+.N 022
+.D 19/10/2024
+.C SCIENCES
+.T David Rothenberg et les oiseaux artistes, à la recherche du son parfait. Pionnier de la musique interespèces, le philosophe et musicien américain compose avec des punaises aquatiques, des rossignols ou encore des baleines à bosse. En convoquant les sciences, il tente de démontrer que le chant des oiseaux relève de la représentation artistique.
+
+.N 023
+.D 20/10/2024
+.C SCIENCES
+.T Un sixième sens découvert chez les geckos. Les saccules, des vésicules de l'oreille interne, permettent au lézard d'" entendre " des vibrations non sonores à très basse fréquence.
+
+.N 024
+.D 20/10/2024
+.C SCIENCES
+.T La sonde européenne Euclid dévoile les premières pages de son atlas du ciel. En révélant le premier morceau de sa grande carte de l'Univers, la mission spatiale de l'Agence spatiale européenne tente de percer les deux grands mystères de la cosmologie, la matière noire et l'énergie sombre.
+
+.N 025
+.D 21/10/2024
+.C SCIENCES
+.T Les nouvelles voies pour traiter les troubles de stress post-traumatique. Environ un tiers des patients souffrant de ce trouble psychiatrique ne répond pas aux prises en charge classiques. D'autres méthodes de traitement émergent et pourraient, à terme, être généralisées. Certaines d'entre elles incluent le recours aux psychédéliques et à la réalité virtuelle.
+
+.N 026
+.D 21/10/2024
+.C SCIENCES
+.T Troubles du stress post-traumatique : " Donner à l'enfant des outils pour l'aider à reprendre le contrôle sur sa vie ". Dans le monde, 60 % des moins de 18 ans ont été exposés au moins une fois, en 2023, à un événement traumatique. Hala Kerbage, psychiatre, spécialiste de ce trouble, détaille ses conséquences sur la santé de l'enfant, et à quel point la précocité de la prise en charge est cruciale pour combattre ce fléau.
+
+.N 027
+.D 21/10/2024
+.C SCIENCES
+.T Le minuscule dinosaure très rapide avait des ailes. Une formule physique a permis d'expliquer les longues foulées d'un microraptor dont les empreintes de pas, vieilles de plus de 100 millions d'années, ont été découvertes en 2018 en Corée du Sud.
+
+.N 028
+.D 22/10/2024
+.C SCIENCES
+.T A Lyon, scientifiques et citoyens partagent leurs savoirs. La Fête de la science a été le théâtre, le 10 octobre, d'un rassemblement de chercheurs et de membres de la société civile. Prônant des initiatives " engagées et reliées ", ils bousculent l'orthodoxie scientifique.
+
+.N 029
+.D 22/10/2024
+.C SCIENCES
+.T " Notre devoir est d'alléger le poids financier de la diffusion scientifique ". Dans une tribune au " Monde ", le directeur de recherche honoraire au CNRS Denis Jerome plaide pour le développement de nouvelles revues moins onéreuses que les grandes publications, qui accaparent des fonds publics.
+
+.N 030
+.D 23/10/2024
+.C SCIENCES
+.T Doliprane : " La création d'une capacité pharmaceutique publique permettrait de garantir une production stable de médicaments essentiels ". Face à l'abandon des médicaments dits " matures " par les industriels, l'Etat pourrait s'investir dans leur production afin d'assurer l'autonomie de la France et de l'Union européenne en la matière, estiment, dans une tribune au " Monde ", le juriste Vincent Héraud et l'économiste Adrien Lehman.
+
+.N 031
+.D 23/10/2024
+.C SCIENCES
+.T " Gender Tech. Ce que la technologie fait au corps des femmes ", un contrôle systémique et pernicieux du féminin. Dans son livre, la chercheuse et journaliste italienne Laura Tripaldi analyse l'ambivalence des technologies de genre, qui ont contribué à émanciper les femmes, mais aussi à renforcer des systèmes d'oppression.
+
+.N 032
+.D 23/10/2024
+.C SCIENCES
+.T L'IA, une chance potentielle pour l'éducation. Outre le rôle d'assistance à la rédaction de sujets et de correction de devoirs, l'intelligence artificielle pourrait offrir une aide personnalisée à chaque élève, estiment Jean Ponce et Isabelle Ryl, dans leur carte blanche au " Monde ".
+
+.N 033
+.D 23/10/2024
+.C SCIENCES
+.T Doliprane : " La fabrication et la distribution de médicaments anciens, tel le Doliprane, est-elle si stratégique ? ". Si le marché des médicaments génériques doit effectivement être mieux régulé pour éviter les pénuries, le choix de Sanofi de réorienter son activité vers l'innovation en investissant dans la recherche et le développement est une bonne nouvelle, estime l'économiste Pierre-Yves Geoffard dans une tribune au " Monde ".
+
+.N 034
+.D 23/10/2024
+.C SCIENCES
+.T L'écroulement des populations d'insectes fortement sous-estimé par des travaux à haute visibilité. Deux chercheuses ont recensé les erreurs méthodologiques et statistiques de la plus grande base de données sur l'évolution mondiale des populations de ces invertébrés, pourtant citée par plus d'un millier de travaux ultérieurs.
+
+.N 035
+.D 23/10/2024
+.C SCIENCES
+.T Déclencher l'accouchement, une pratique qui augmente. Malgré les controverses liées à la médicalisation de la naissance, en France et dans les pays industrialisés, le déclenchement artificiel intervient de plus en plus tôt, dès la trente-neuvième semaine.
+
+.N 036
+.D 24/10/2024
+.C SCIENCES
+.T Les lents progrès contre la fièvre méditerranéenne familiale. Apparue il y a des milliers d'années, cette maladie auto-inflammatoire héréditaire a muté au gré des guerres et des déplacements autour de la Méditerranée. Aujourd'hui, elle touche quelque 100 000 personnes dans le monde.
+
+.N 037
+.D 24/10/2024
+.C SCIENCES
+.T " Visages d'ancêtres " : le long voyage des esclaves de l'île Maurice jusqu'au château de Blois. L'exposition, organisée dans l'antre royal jusqu'au 1er décembre, présente une collection de moulages de visages d'esclaves, réalisés de leur vivant par l'ethnographe Eugène de Froberville, au XIXᵉ siècle. Tombée dans l'oubli, elle a été redécouverte en 2018 par l'historienne Klara Boyer-Rossol.
+
+.N 038
+.D 24/10/2024
+.C SCIENCES
+.T Le Palais de la découverte perd l'usage d'un espace au profit du Grand Palais. Les salariés de ce fleuron des sciences redoutent de voir leurs surfaces peu à peu grignotées par le puissant voisin à l'aura grandissante.
+
+.N 039
+.D 24/10/2024
+.C SCIENCES
+.T Les produits phytosanitaires responsables du déclin des populations d'insectes. Herbicides, fongicides et autres pesticides ont des conséquences importantes sur le développement des insectes, selon une nouvelle étude d'une ampleur inédite parue jeudi.
+
+.N 040
+.D 25/10/2024
+.C SCIENCES
+.T Le padel, nouvelle piste du sport-santé. " 10 000 pas et plus ". Ce petit frère du tennis et du squash, de plus en plus populaire, semble bénéfique pour la santé. Mais il est à l'origine de blessures, que les joueurs doivent apprendre à prévenir.
+
+.N 041
+.D 25/10/2024
+.C SCIENCES
+.T L'intelligence artificielle, lauréate des prix Nobel de physique et de chimie. L'Académie suédoise rend visible une tendance forte ces dernières années, en primant des scientifiques travaillant ou ayant travaillé pour Google.
+
+.N 042
+.D 25/10/2024
+.C SCIENCES
+.T " Tèque " explore les idéologies de la Silicon Valley. Dans son quatrième numéro, la revue analyse l'envers du décor de la Silicon Valley, considérée comme le " centre de gravité de l'économie numérique mondiale ".
+
+.N 043
+.D 25/10/2024
+.C SCIENCES
+.T Les nuages d'orage, " marmites bouillantes " à rayons gamma. Les rayons gamma joueraient un rôle déterminant dans le déclenchement de la foudre, révèlent deux chercheurs de l'université de Bergen, en Norvège. Leur découverte pourrait révolutionner notre compréhension de l'électrification des orages.
+
+.N 044
+.D 25/10/2024
+.C SCIENCES
+.T Comment le cerveau peut-il être si énergivore et  tellement efficace. " La fabrique du savoir " (4/5). Comment les neurosciences pourraient-elles aider à relever le défi de l'énergie ? En analysant le métabolisme du cerveau… et ses formidables performances, comme nous l'explique le chercheur Sébastien Wolf.
+
+.N 045
+.D 25/10/2024
+.C SCIENCES
+.T A quoi ressemblent nos idées et notre mémoire dans notre cerveau ?. " La fabrique du savoir " (4/5). L'analyse de l'activité cérébrale révèle des secrets sur le fonctionnement de cet organe qui reste encore bien mystérieux. Rencontre avec le chercheur Sébastien Wolf.
+
+.N 046
+.D 26/10/2024
+.C SCIENCES
+.T Les citrouilles, l'énigme maths du " Monde " n° 31. Chaque semaine, le mathématicien Mickaël Launay vous soumet un problème. A vous de jouer !
+
+.N 047
+.D 26/10/2024
+.C SCIENCES
+.T Jean-David Zeitoun, épidémiologiste : " La culture d'une société détermine la violence qu'elle héberge ". Les causes de la violence sont au cœur du dernier ouvrage du médecin, qui s'appuie sur les ressources de l'épidémiologie pour éclairer un phénomène souvent mal compris.
+
+.N 048
+.D 27/10/2024
+.C SCIENCES
+.T Comment le tardigrade peut résister à des radiations qui nous tueraient. Ces bestioles de moins de 1 millimètre, nichées sous la mousse de nos jardins, supportent des doses de rayons gamma mille fois plus importantes que ce que nous pourrions accepter. Le secret est caché dans leur ADN.
+
+.N 049
+.D 28/10/2024
+.C SCIENCES
+.T Claude Huriet, pionnier des questions de bioéthique, est mort. Adoptée en 1988, la loi qui porte son nom était venue protéger les personnes qui se prêtent à la recherche biomédicale.
+
+.N 050
+.D 28/10/2024
+.C SCIENCES
+.T Du soin à la surveillance du cerveau : sept défis pour les neurotechnologies. Implants cérébraux, bandeaux et écouteurs truffés d'électrodes : la lecture du cerveau et sa stimulation, au centre d'une riche recherche thérapeutique, deviennent, sans grand recul ni souvent preuve d'efficacité, un produit de consommation. Il ne s'agit plus seulement de soigner et de réparer, mais potentiellement d'augmenter les fonctions cérébrales.
+
+.N 051
+.D 29/10/2024
+.C SCIENCES
+.T Maladie d'Alzheimer : un antidiabétique pourrait réduire la progression du déclin cognitif. Une équipe de chercheurs américains a révélé que le sémaglutide, commercialisé sous les noms d'Ozempic et de Wegovy, amélioreraient notamment la consommation de sucre pour le cerveau.
+
+.N 052
+.D 29/10/2024
+.C SCIENCES
+.T " La recherche sur le climat retarde l'action climatique ". Les sciences universitaires privilégient le développement de nouvelles technologies au détriment de solutions concrètes contre le réchauffement climatique, déplore, dans une tribune au " Monde ", l'ex-professeure en océanographie, Véronique Carignan.
+
+.N 053
+.D 29/10/2024
+.C SCIENCES
+.T Les congés menstruels, enjeu de réussite pour les étudiantes, se multiplient dans les universités. Après l'université d'Angers, pionnière à la rentrée 2023, celles de Bordeaux-Montaigne, de Clermont-Auvergne ou encore de Créteil proposent, depuis la rentrée, des jours de congés aux étudiantes ayant des règles douloureuses. Chaque établissement avec des modalités propres.
+
+.N 054
+.D 29/10/2024
+.C SCIENCES
+.T La Chine envoie trois astronautes vers la station spatiale Tiangong. Le vaisseau propulsé par une fusée Longue-Marche 2F est censé atteindre la station chinoise mercredi. L'objectif à long terme est de faire atterrir d'ici à 2030 un équipage sur la Lune afin d'y construire une base de recherche scientifique.
+
+.N 055
+.D 30/10/2024
+.C SCIENCES
+.T La falsification d'images médicales numériques est possible avec un simple smartphone. Il est devenu facile de manipuler, à l'aide de l'intelligence artificielle générative, des clichés cérébraux. A terme, cette pratique pourrait ouvrir la voie à la modification d'articles scientifiques ou de dossiers médicaux, jusqu'à malmener l'intégrité des données d'un hôpital.
+
+.N 056
+.D 30/10/2024
+.C SCIENCES
+.T Les maths, une langue à part entière. Deux mondes a priori éloignés, les langues et les sciences, sont, en réalité, inextricablement liés, rappelle le mathématicien Etienne Ghys, dans sa carte blanche au " Monde ".
+
+.N 057
+.D 31/10/2024
+.C SCIENCES
+.T " La Tyrannie du cerveau " : comment cet organe glouton pilote notre évolution. Le paléoanthropologue Jean-Jacques Hublin, décrit, dans son dernier ouvrage, la quête incessante d'énergie de notre encéphale qui dicte notre physiologie et nos comportements.
+
+.N 058
+.D 31/10/2024
+.C SCIENCES
+.T Prix Nobel 2024 " On ne peut pas nier la portée et l'influence des lauréats dans la discipline économique ". L'économiste Cyril Hédoin réfute, dans une tribune au " Monde ", les critiques adressées par certains historiens aux travaux de Daron Acemoglu, James Robinson et Simon Johnson, lauréats du prix Nobel d'économie 2024.
+
+.N 059
+.D 31/10/2024
+.C SCIENCES
+.T L'Union européenne inflige une amende de 460 millions d'euros au groupe pharmaceutique Teva. La Commission européenne lui reproche un " abus de position dominante " pour son médicament contre le traitement de la sclérose en plaques, le Copaxone.
+
+.N 060
+.D 01/11/2024
+.C SCIENCES
+.T Pourquoi les feuilles d'automne sont jaunes et rouges. " La vie cachée des plantes ". A l'arrière-saison, les feuilles cessent de fabriquer de la chlorophylle et perdent alors leur couleur verte, révélant au grand jour les pigments jaunes, orange ou rouges.
+
+.N 061
+.D 01/11/2024
+.C SCIENCES
+.T La drépanocytose, une anémie d'origine génétique, enfin dépistée chez tous les nouveau-nés. A partir du 1er novembre, cette pathologie est la treizième maladie grave de l'enfant détectée dans le cadre du programme national de dépistage néonatal. En France, 30 000 personnes souffrent de cette affection.
+
+.N 062
+.D 01/11/2024
+.C SCIENCES
+.T Face à Starlink d'Elon Musk, l'Europe aura sa constellation Iris². La Commission européenne a attribué le projet de constellation au consortium SpaceRISE, constitué des trois opérateurs de satellites : le français Eutelsat, le luxembourgeois SES et l'espagnol Hispasat. Le système composé de plus de 290 satellites fournira des services gouvernementaux d'ici à 2030, tout en permettant des services commerciaux.
+
+.N 063
+.D 01/11/2024
+.C SCIENCES
+.T Dieu, l'être, le monde… L'énergie, c'est aussi de la philosophie !. " La fabrique du savoir " (5/5). D'où vient le mot " énergie " ? L'helléniste Barbara Cassin, membre de l'Académie française, en appelle à Aristote pour définir ce concept millénaire.
+
+.N 064
+.D 01/11/2024
+.C SCIENCES
+.T D'où vient le concept d'énergie ?. " La fabrique du savoir " (5/5). Il y a l'énergie qu'on utilise et celle qu'on produit, celle qui pollue et celle qu'on veut renouvelable, mais aussi celle qui nous fait bouger et réfléchir. Mais à quand remonte le mot " énergie " ?
+
+.N 065
+.D 02/11/2024
+.C SCIENCES
+.T Une molécule suscite l'espoir contre l'addiction au cannabis. Si la majorité des consommateurs de cannabis en France en fait un usage récréatif, environ 10 % deviennent dépendants, un pourcentage qui monterait à 50 % pour les usagers quotidiens. Un nouveau traitement, en cours d'essai clinique, paraît prometteur pour traiter l'addiction.
+
+.N 066
+.D 02/11/2024
+.C SCIENCES
+.T Le " puzzudochec ", l'énigme maths du " Monde " nᵒ 32. Cette semaine, le mathématicien Mickaël Launay mêle échecs, sudoku et puzzle. A vous de jouer !
+
+.N 067
+.D 02/11/2024
+.C SCIENCES
+.T Aurélien Troisoeufs, anthropologue de la santé : " En psychiatrie, l'accompagnement par un pair ramène le sensible au cœur du travail ". Le chercheur va prendre la direction d'un laboratoire de recherche en santé mentale installé au cœur d'un hôpital, un dispositif assez rare. Dans un entretien au " Monde ", il  se félicite de la diffusion de la pair-aidance, une pratique qui bouscule la culture médicale.
+
+.N 068
+.D 03/11/2024
+.C SCIENCES
+.T Les perles, ces insectes dont l'humain a transformé la couleur. Sous le coup de la déforestation, l'animal s'est profondément éclairci. Une évolution que des chercheurs néo-zélandais ont pu pister, du comportement jusqu'à l'ADN.
+
+.N 069
+.D 04/11/2024
+.C SCIENCES
+.T En Indonésie, une éruption du volcan Lewotobi Laki-Laki tue au moins dix personnes. Le volcan, situé sur l'île de Florès, a connu dans la nuit de dimanche à lundi, plusieurs éruptions, forçant des évacuations et causant des dégâts importants dans les villages voisins.
+
+.N 070
+.D 04/11/2024
+.C SCIENCES
+.T Alimentation biologique et santé : ce que la science en dit vraiment. Plusieurs études montrent des bénéfices de l'alimentation bio, notamment des risques moindres de certains cancers, de surpoids et d'obésité, de malformations congénitales. Les spécialistes insistent sur la cohérence d'ensemble de ces résultats, même si leur nombre reste trop faible pour que les liens de causalité soient incontestablement établis.
+
+.N 071
+.D 04/11/2024
+.C SCIENCES
+.T Des institutions scientifiques entretiennent le doute sur les bénéfices du bio. Une vaste étude française de 2018, montrant un lien entre alimentation bio et baisse de certains cancers, a été selon ses auteurs dénigrée par des organismes comme l'Institut national du cancer ou l'Académie de médecine.
+
+.N 072
+.D 05/11/2024
+.C SCIENCES
+.T Plongée au cœur d'une machinerie cellulaire méconnue et vitale, le splicéosome humain. Des chercheurs espagnols et américains ont étudié cet assemblage moléculaire qui participe au contrôle de l'activité de nos gènes et se trouve dérégulé dans nombre de cancers et de maladies chroniques.
+
+.N 073
+.D 05/11/2024
+.C SCIENCES
+.T " Réévaluer des médicaments remboursés à 15 % ou à 30 % est une nécessité en période de restrictions budgétaires ". La prescription de produits pharmaceutiques n'ayant pas démontré leur efficacité clinique pose des problèmes éthiques, écologiques et économiques, explique, dans une tribune au " Monde ", Rémy Boussageon, président du conseil scientifique du Collège national des généralistes enseignants.
+
+.N 074
+.D 05/11/2024
+.C SCIENCES
+.T L'intelligence artificielle s'intéresse aussi à la régulation des gènes. Des séquences régulatrices spécifiques de certaines cellules, plus efficaces que celles trouvées dans la nature, ont été conçues par un système d'apprentissage automatique.
+
+.N 075
+.D 06/11/2024
+.C SCIENCES
+.T La NASA a retenu  neuf sites pour le retour des humains sur la Lune. L'agence spatiale américaine a dévoilé, le 28 octobre, une liste actualisée des régions sur lesquelles la mission Artemis-3 pourrait se poser en 2026. Elles sont toutes localisées à proximité du pôle Sud de notre satellite.
+
+.N 076
+.D 06/11/2024
+.C SCIENCES
+.T Lorraine Daston et le triomphe de la règle en science. Dans sa carte blanche au " Monde ", le professeur d'histoire des sciences Stéphane Van Damme revient sur le parcours exceptionnel de l'historienne des sciences américaine.
+
+.N 077
+.D 06/11/2024
+.C SCIENCES
+.T Repli de la consommation d'antibiotiques en France en 2023, après deux ans de hausse. Si le repli de 2023 est " un signe encourageant ", la France est " encore loin de l'objectif cible de moins de 650 prescriptions pour 1 000 habitants par an ", a commenté le Dʳ Caroline Semaille, directrice générale de Santé publique France.
+
+.N 078
+.D 07/11/2024
+.C SCIENCES
+.T Médicaments et grossesse : de nouveaux pictogrammes à l'étude. L'Agence de sécurité du médicament propose de faire évoluer le système d'informations sur les risques des traitements pendant la grossesse, pour plus de clarté. Mais selon une association de patients, les nouveaux pictogrammes sont " moins visibles et moins compréhensibles ".
+
+.N 079
+.D 07/11/2024
+.C SCIENCES
+.T Androcur : une plainte déposée par les victimes du médicament pour mise en danger d'autrui et tromperie aggravée. Une plainte contre X a été déposée mardi 5 novembre devant le tribunal judiciaire de Paris. Prescrit notamment contre l'endométriose, le progestatif commercialisé par Bayer est à l'origine de tumeurs du cerveau.
+
+.N 080
+.D 07/11/2024
+.C SCIENCES
+.T " ALMA. Voyage initiatique d'un astronome en terre inca ", quand un astrophysicien se frotte à l'âme du ciel. Dans son premier roman graphique, David Elbaz emmène son double de fiction au Chili, où se trouve le plus puissant radiotélescope du monde. Un choc visuel et culturel pour le scientifique.
+
+.N 081
+.D 07/11/2024
+.C SCIENCES
+.T La révolution de la microscopie par expansion. Cette nouvelle technique, s'appuyant sur une série de préparations biochimiques, permet de gonfler de vingt fois la taille des échantillons que l'on souhaite examiner.
+
+.N 082
+.D 08/11/2024
+.C SCIENCES
+.T Le football en marchant, pour rester en mouvement. Fondée en Angleterre en 2011 pour maintenir les seniors en forme, cette activité compte aujourd'hui environ 1 500 pratiquants en France. Le rythme séquencé et les nombreux changements de direction sollicitent notamment les systèmes cardiovasculaires et métaboliques.
+
+.N 083
+.D 08/11/2024
+.C SCIENCES
+.T Budget 2025 : " L'aide à la recherche doit être orientée vers les TPE-PME, où elles génèrent le plus d'innovation, de croissance et de compétitivité ". Des représentants des petites et moyennes entreprises du numérique demandent, dans une tribune au " Monde ", à ce que le projet de loi de finances réoriente le crédit d'impôt recherche, objet de nombreuses critiques, vers les petits acteurs de l'innovation
+
+.N 084
+.D 08/11/2024
+.C SCIENCES
+.T Ces chercheurs qui font voler les panneaux solaires. Un projet français installe des cellules photovoltaïques souples et ultralégères sur un ballon pour, à terme, aller capter les rayons du Soleil au-dessus du couvert nuageux.
+
+.N 085
+.D 08/11/2024
+.C SCIENCES
+.T L'ADN ancien permet de mieux connaître l'origine des habitants de Pompéi. Des chercheurs internationaux ont analysé le matériel génétique issu des moulages de victimes qui ont péri dans l'éruption du Vésuve. Leurs liens de parenté et leur genre ne correspondent pas aux récits contés jusqu'alors.
+
+.N 086
+.D 09/11/2024
+.C SCIENCES
+.T Les sapins du " Ladies' Diary ", l'énigme maths du " Monde " n° 33. Le problème soumis cette semaine par Mickaël Launay nous vient d'un journal féminin... du XVIIIᵉ siècle. A vous de jouer !
+
+.N 087
+.D 09/11/2024
+.C SCIENCES
+.T Michael Hall, biologiste multirécompensé et pionnier du métabolisme cellulaire. En étudiant le mode d'action d'un immunosuppresseur découvert dans le sol de l'île de Pâques, le biologiste américano-suisse a découvert une voie de contrôle de la croissance des cellules présente dans tout le règne animal et végétal.
+
+.N 088
+.D 10/11/2024
+.C SCIENCES
+.T Mary, l'éléphante d'Asie qui réinvente la douche. Prises au zoo de Berlin, les images du pachyderme utilisant un tuyau d'arrosage sont stupéfiantes de dextérité. Une maîtrise de l'outil qu'elle a acquise par elle-même.
+
+.N 089
+.D 11/11/2024
+.C SCIENCES
+.T Climat : vaut-il mieux parler de " réchauffement " ou de " dérèglement " ?. 
+
+.N 090
+.D 11/11/2024
+.C SCIENCES
+.T Raymonde Bonnefille, géologue : " La découverte de Lucy est une œuvre collective ". La spécialiste des pollens faisait partie de l'expédition qui a mis au jour l'australopithèque, dans le nord-est de l'Ethiopie, en 1974. Dans un entretien au " Monde ", elle revient sur les circonstances de cette découverte majeure.
+
+.N 091
+.D 11/11/2024
+.C SCIENCES
+.T L'héritage débattu de Lucy, la plus célèbre des australopithèques. Cinquante ans après sa découverte, la place de ce fossile dans l'histoire de l'humanité est toujours discutée, alors que dans l'intervalle d'autres espèces d'homininés ont agrandi la photo de famille.
+
+.N 092
+.D 12/11/2024
+.C SCIENCES
+.T " Les chasses au trésor constituent un risque de destructions archéologiques irrémédiables ". La professeure d'archéologie Anne Lehoërff s'inquiète, dans une tribune au " Monde ", que des explorations, comme celle de la Chouette d'or, puissent abîmer les vestiges et appauvrir les sites.
+
+.N 093
+.D 12/11/2024
+.C SCIENCES
+.T L'inflation du nombre de publications scientifiques interroge. Entre 2016 et 2022, la quantité d'articles publiés et indexés dans les deux principales bases de données, Scopus et Web of Science, a grossi de près de 50 %.
+
+.N 094
+.D 13/11/2024
+.C SCIENCES
+.T En Inde, la thèse d'une ascendance aryenne des hindous vacille. L'ADN de squelettes découverts en quantité dans la cité harappéenne de Rakhigarhi, dans le nord du pays, met à mal l'existence d'une " race " pure, défendue par les nationalistes au pouvoir.
+
+.N 095
+.D 13/11/2024
+.C SCIENCES
+.T Le sondage, un thermomètre qui donne la fièvre. L'omniprésence des enquêtes d'opinion tend à provoquer un resserrement des résultats d'une élection, comme dans un système magnétique où deux forces s'opposent, expliquent les physiciens Wiebke Drenckhan et Jean Farago, dans leur carte blanche au " Monde ".
+
+.N 096
+.D 13/11/2024
+.C SCIENCES
+.T NanoXplore, spécialiste de l'électronique de l'industrie spatiale, met un pied dans la défense. La PME familiale française, championne des composants programmables, qui équipent par exemple le télescope James-Webb, se diversifie désormais dans le secteur stratégique de la défense.
+
+.N 097
+.D 13/11/2024
+.C SCIENCES
+.T Comment la mémoire se met à jour au fil du temps. Des neurones de l'hippocampe ont la capacité de stocker de nouveaux souvenirs tout en les intégrant à des expériences de vie récentes, montre une étude menée chez la souris, publiée dans " Nature ".
+
+.N 098
+.D 14/11/2024
+.C SCIENCES
+.T Le secret du camouflage des cicadelles, ces insectes qui sucent la sève des végétaux. Une équipe de chercheurs chinois a révélé la présence de brochosomes sur le corps de ces insectes, les rendant moins visibles pour les prédateurs.
+
+.N 099
+.D 14/11/2024
+.C SCIENCES
+.T " L'empathie est politique " : plongée au cœur d'un affect biaisé. La docteure en neurosciences Samah Karaki tente de démontrer, dans son ouvrage, que l'empathie est une boussole morale " peu fiable ", car elle tend à marginaliser ceux qui sont considérés comme " autres ", culturellement ou géographiquement.
+
+.N 100
+.D 14/11/2024
+.C SCIENCES
+.T Pourquoi les universités françaises décrochent dans le classement du " Times Higher Education ". En perte de vitesse dans le classement 2025 du journal britannique, les universités françaises évoquent les conséquences d'un manque de financement de la recherche.
+
+.N 101
+.D 13/10/2024
+.C CULTURE
+.T Le stand-up mis à l'honneur par Mohamed El Khatib au Théâtre du Rond-Point. L'auteur et metteur en scène s'empare de cet art de la parole directe à l'occasion de sa " Carte blanche " au Festival d'automne.
+
+.N 102
+.D 14/10/2024
+.C CULTURE
+.T Nos choix de festivals et de concerts : jazz, électro, pop rock…. Le lundi, le service Culture du " Monde " propose aux lecteurs de La Matinale ses choix en matière de musique. Cette fois-ci, le jazz, à l'honneur dans toute la France, et un championnat du monde.
+
+.N 103
+.D 14/10/2024
+.C CULTURE
+.T A Paris, le Monopoly des galeries d'art, entre difficultés du marché et changements urbanistiques. Qu'ils soient américains ou Français, des cadors du secteur choisissent de déménager vers des quartiers plus attractifs, comme l'avenue Matignon et le Palais-Royal, voire en proche banlieue.
+
+.N 104
+.D 14/10/2024
+.C CULTURE
+.T La mort du compositeur et chef d'orchestre Leif Segerstam. Le Finlandais aux performances spectaculaires et au catalogue digne du Livre Guinness des records est mort à l'âge de 80 ans.
+
+.N 105
+.D 14/10/2024
+.C CULTURE
+.T A Aubervilliers, la cohabitation heureuse du bal folk et du dance floor. La 28ᵉ édition du festival francilien Villes des musiques du monde a mélangé des univers et rapproché des publics qui se côtoient rarement.
+
+.N 106
+.D 14/10/2024
+.C CULTURE
+.T Culturebox met à l'honneur le rap marseillais de SCH. Avec la diffusion de son concert du 22 juillet 2023 au Stade Vélodrome de Marseille et de " Planète Rap ", la chaîne de France Télévisions consacre une soirée au rappeur surdoué qui allie dans ses disques poésie sombre, amour du cinéma et fascination pour les mafieux.
+
+.N 107
+.D 14/10/2024
+.C CULTURE
+.T " René Dumont, géant vert ", sur LCP : un siècle d'engagement d'un " agronome de la faim " visionnaire. Retour sur le parcours sinueux du premier candidat écologiste à une élection présidentielle, en 1974.
+
+.N 108
+.D 14/10/2024
+.C CULTURE
+.T Joe Sacco, auteur de bande dessinée : " Sur Gaza, je n'attends rien de Kamala Harris ". " Dans ma bulle ". Coutumier des enquêtes fleuves à travers le monde, le père du " comics journalism " américain livre un pamphlet de 32 pages contre le président américain, Joe Biden, qu'il accuse de " faciliter le génocide " des Palestiniens.
+
+.N 109
+.D 14/10/2024
+.C CULTURE
+.T " Face à la mère ", un spectacle qui défie le chaos en beauté. L'acteur et auteur Jean-René Lemoine interprète son texte écrit il y a dix-huit ans, porté par une mise en scène étourdissante qui multiplie les visions.
+
+.N 110
+.D 14/10/2024
+.C CULTURE
+.T La Française Gaëlle Choisne, lauréate du prix Marcel-Duchamp 2024. La plasticienne, sculptrice et photographe française de 39 ans avait reçu le prix Aware 2021.
+
+.N 111
+.D 15/10/2024
+.C CULTURE
+.T Nos choix de séries : " Shrinking ", " Entretien avec un vampire ", " Culte ". Chaque mardi, " La Matinale " propose une sélection de séries à (re)découvrir sur petit écran. Aujourd'hui, le vétéran de la comédie américaine Bill Lawrence livre une charmante deuxième saison de " Shrinking ".
+
+.N 112
+.D 15/10/2024
+.C CULTURE
+.T Festival d'automne : les " Mille et une nuits " de Sorour Darabi, une interprétation queer de Shéhérazade. Le chorégraphe iranien crée, avec l'œuvre de la littérature persane, un premier opéra émancipateur, politique et engagé, où se mêlent la danse, le théâtre, le chant et la musique.
+
+.N 113
+.D 15/10/2024
+.C CULTURE
+.T Shane Gross remporte le Prix du photographe animalier de l'année. Honoré par le Muséum d'histoire naturelle de Londres, le photographe canadien a capturé, sous les nénuphars, une myriade de têtards de crapaud.
+
+.N 114
+.D 15/10/2024
+.C CULTURE
+.T La musique incisive et irradiante de Clara Iannotta. Le portrait consacré par le Festival d'automne à la compositrice italienne s'est ouvert le 11 octobre avec une installation dans l'église Saint-Eustache et un concert à la Cité de la musique, à Paris.
+
+.N 115
+.D 15/10/2024
+.C CULTURE
+.T A Bayeux, une formation pour apprendre le reportage de guerre. Pendant le festival du Prix Bayeux Calvados-Normandie, une douzaine de photojournalistes indépendants sont formés au travail en zone dangereuse afin de limiter les risques et de gagner en autonomie sur le terrain.
+
+.N 116
+.D 15/10/2024
+.C CULTURE
+.T A l'Odéon-Théâtre de l'Europe, " Parallax " passe les doutes identitaires à la hache. Kornél Mundruczo aborde de manière trop elliptique le texte de Kata Wéber, qui bascule de l'histoire d'une grand-mère juive rescapée des camps de concentration à celle de son petit-fils homosexuel.
+
+.N 117
+.D 15/10/2024
+.C CULTURE
+.T Les Bororo du Brésil réinterprètent, au Musée du quai Branly, les objets de la collection Claude et Dina Lévi-Strauss. Une délégation de ce peuple autochtone est venue à Paris, du 6 au 12 octobre, pour examiner des parures et objets cérémoniels qui furent collectés en 1935 et 1936, dans le Mato Grosso, par l'anthropologue français et sa première épouse. Leur objectif : " réveiller " leur culture " endormie par la colonisation ".
+
+.N 118
+.D 15/10/2024
+.C CULTURE
+.T " Samy et les anges de la Timone ", sur France 2 : à l'hôpital de Marseille, une bulle de bienveillance, d'humanité et de poésie. Le documentaire d'Eglantine Eméyé nous emmène dans le service de neuropédiatrie du CHU de Marseille, qui accueille des enfants atteints de maladies rares, parfois mortelles.
+
+.N 119
+.D 15/10/2024
+.C CULTURE
+.T L'art du contournement de la censure chinoise au Centre Pompidou. L'établissement parisien expose une cinquantaine d'œuvres récentes de 21 plasticiens chinois qui composent avec les restrictions de la liberté d'expression dans leur pays.
+
+.N 120
+.D 15/10/2024
+.C CULTURE
+.T Un regard biaisé sur Gustave Caillebotte, au musée d'Orsay. L'institution parisienne consacre une exposition au peintre, pour les cent trente ans de sa mort, qui, centrée sur sa représentation du corps masculin, nous prive de pans entiers de son œuvre.
+
+.N 121
+.D 15/10/2024
+.C CULTURE
+.T L'écrivain chilien Antonio Skarmeta est mort. Après le coup d'Etat militaire d'Augusto Pinochet en 1973, l'auteur d'" Une ardente patience " s'est exilé en Argentine puis en Allemagne, où il a été ambassadeur du Chili dans les années 2000.
+
+.N 122
+.D 16/10/2024
+.C CULTURE
+.T Les films à l'affiche : " Miséricorde ", " L'Amour ouf ", " Barbès. Little Algérie "…. Chaque mercredi dans " La Matinale ", les journalistes cinéma du " Monde " livrent leurs critiques des films à découvrir en salle. Cette semaine, notamment, ils ont été emballés par le nouveau film d'Alain Guiraudie, un polar mystique et sylvestre.
+
+.N 123
+.D 16/10/2024
+.C CULTURE
+.T " L'Amour ouf " : le fantôme d'un amour perdu. Gilles Lelouche signe une grande fresque, entre passion et vengeance, qui fait mouche.
+
+.N 124
+.D 16/10/2024
+.C CULTURE
+.T " Sauvages " : l'appel de la forêt et des orangs-outans. Le film d'animation de Claude Barras possède toutes les qualités d'une œuvre tendre et pédagogique à l'attention du jeune public.
+
+.N 125
+.D 16/10/2024
+.C CULTURE
+.T " Miséricorde " : pour Alain Guiraudie, les voies du désir sont impénétrables. En plongeant dans le quotidien d'un village perturbé par le retour d'un jeune homme, le réalisateur signe un film magistral, entre tragédie et burlesque.
+
+.N 126
+.D 16/10/2024
+.C CULTURE
+.T " Norah ", un portrait de la jeune fille saoudienne. Premier film saoudien sélectionné à Cannes, le mélodrame minimaliste de Tawfik Alzaidi met en scène le tabou de la représentation, dans les années 1990.
+
+.N 127
+.D 16/10/2024
+.C CULTURE
+.T " Les Voies croisées " : quand les travailleurs migrants rentrent au pays pour cultiver la terre. Ce documentaire libre et poétique relate la création d'une coopérative agricole au Mali, en 1977, projet pionnier et exemplaire.
+
+.N 128
+.D 16/10/2024
+.C CULTURE
+.T " Barbès, little Algérie " : une peinture hyperréaliste d'un Barbès entre misère et solidarité populaire. Dans son premier long-métrage, Hassan Guerrar évoque sur le ton de la tragi-comédie un quartier de Paris auquel il est très attaché.
+
+.N 129
+.D 16/10/2024
+.C CULTURE
+.T " Cabaret ! " sur France Culture, derrière les strass, une révolution des genres. Céline du Chéné signe une série audio documentaire passionnante sur le sujet, du " Chat Noir ", en 1881, à la " Sirène à barbe ", en 2021.
+
+.N 130
+.D 16/10/2024
+.C CULTURE
+.T " Rematch ", sur Arte : Garry Kasparov et les pions d'IBM. Classique dans sa forme, la série retrace le match retour de 1997 entre le champion d'échecs et le " superordinateur " Deep Blue.
+
+.N 131
+.D 16/10/2024
+.C CULTURE
+.T " Habemus Papam ", sur Arte : la curie d'un pape et la diablerie ludique d'un cinéaste. Le réalisateur italien Nanni Moretti se moque de la religion, du journalisme, de la psychanalyse, du sport… et de lui-même.
+
+.N 132
+.D 16/10/2024
+.C CULTURE
+.T A la Fondation Louis Vuitton, Tom Wesselmann et la galaxie pop art. Une grande rétrospective consacrée à cet artiste majeur du mouvement pop art ouvre 17 octobre avec des œuvres jamais présentées au public.
+
+.N 133
+.D 17/10/2024
+.C CULTURE
+.T Mort de Liam Payne, ex-membre de One Direction, après une chute en Argentine. La police locale a annoncé que l'homme de 31 ans avait chuté du troisième étage d'un hôtel à Palermo, un quartier de Buenos Aires.
+
+.N 134
+.D 17/10/2024
+.C CULTURE
+.T Nos choix de lecture : " Ténèbres et compagnie ", " Nord Sentinelle ", " Maniac "…. Chaque jeudi, la rédaction du " Monde des livres " vous propose sa sélection littéraire. Cette semaine, le puissant roman de l'auteur lituanien Sigitas Parulskis sur la Shoah dans le pays balte.
+
+.N 135
+.D 17/10/2024
+.C CULTURE
+.T Tom Wesselmann, l'ironie mordante et érotique d'une œuvre à part. La Fondation Louis Vuitton consacre une rétrospective à cet artiste américain précurseur du pop art, dont les peintures et installations reprennent les codes classiques du nu pour mieux critiquer la société de consommation.
+
+.N 136
+.D 17/10/2024
+.C CULTURE
+.T Fondation Louis Vuitton : Marjorie Strider, Yayoi Kusama, Mickalene Thomas... l'autre facette du pop art. L'exposition consacrée à Tom Wesselmann met en perspective son travail avec celui de figures féminines du mouvement des années 1960.
+
+.N 137
+.D 17/10/2024
+.C CULTURE
+.T Sébastien Cavalier : " Le Pass culture doit être en capacité de s'adapter ". Le président de la société responsable du dispositif en détaille les pistes de réforme.
+
+.N 138
+.D 17/10/2024
+.C CULTURE
+.T Dans " Ménélas rebétiko rapsodie ", au Théâtre de l'Epée de bois, à Paris, un homme pleure la femme qui l'a quitté. Simon Abkarian est un héros tragique et bouleversant, porté par une musique sublime.
+
+.N 139
+.D 17/10/2024
+.C CULTURE
+.T " Snowpiercer. Le transperceneige " : train express pour allégorie futuriste. Inspiré de la bande dessinée française créée par Jean-Marc Rochette et Jacques Lob en 1984, le film du Coréen Bong Joon-ho mêle divertissement et abstraction.
+
+.N 140
+.D 17/10/2024
+.C CULTURE
+.T Démarrage euphorique pour Art Basel Paris. La foire d'art, qui se tient jusqu'à dimanche dans le Grand Palais rénové, attire des collectionneurs du monde entier.
+
+.N 141
+.D 18/10/2024
+.C CULTURE
+.T Photo Mystère #183. Un lieu, un monument, une histoire à découvrir derrière l'image... Indice : écrin du Médoc.
+
+.N 142
+.D 18/10/2024
+.C CULTURE
+.T " Avec la tarification dynamique, le risque est de voir une partie des concerts devenir des produits d'hyperluxe ". Les spectacles sont désormais essentiels dans l'écosystème d'un artiste. Le système qui consiste à proposer une partie des billets de spectacle à des prix variables est un des moyens de tirer davantage de revenus encore de la billetterie, constate dans sa chronique Guillaume Fraissard, chef du service Culture au " Monde ".
+
+.N 143
+.D 18/10/2024
+.C CULTURE
+.T A la Fondation Vuitton, le pop art ou l'art d'un nouveau réalisme. La rétrospective consacrée à Tom Wesselmann et ses contemporains revisite l'histoire d'un mouvement qui n'a cessé d'inventer.
+
+.N 144
+.D 18/10/2024
+.C CULTURE
+.T L'actrice Charlotte Le Bon : " Jouer la jolie fille un peu joyeuse et raisonnable, c'est chiant ". La comédienne et réalisatrice, à l'affiche du film " Niki ", de Céline Sallette, est l'invitée cette semaine du podcast " Le Goût de M ", en accès libre dès le vendredi sur toutes les plateformes.
+
+.N 145
+.D 18/10/2024
+.C CULTURE
+.T Art Basel Paris : quatorze lieux à visiter autour de la foire d'art contemporain. Pendant cette 3e édition, les événements fleurissent : un parcours gratuit disséminé à travers la capitale, des salons alternatifs. D'expositions et installations monumentales en foires off, voici la sélection du " Monde ".
+
+.N 146
+.D 18/10/2024
+.C CULTURE
+.T Le projet d'installation de la Maison des mondes africains à l'hôtel de la Monnaie inquiète les salariés. Validée par Matignon, cette arrivée aux contours encore flous ne concernerait qu'une partie du bâtiment. L'intersyndicale craint que le volet culturel du lieu en pâtisse.
+
+.N 147
+.D 18/10/2024
+.C CULTURE
+.T " Embrasser les cendres " : les souffrances de la guerre traduites par des marionnettes. Le metteur en scène Renaud Herbin a travaillé avec la dramaturge Lina Laura Svedaite et avec le Théâtre de Klaipeda pour son spectacle, élégie en noir et blanc sur l'histoire de la ville lituanienne de Klaipeda.
+
+.N 148
+.D 18/10/2024
+.C CULTURE
+.T Serge Rezvani raconte le tourbillon de sa vie. Rencontre avec le peintre, écrivain, auteur, compositeur et interprète, 96 ans, à l'occasion de la sortie d'un coffret consacré à ses chansons les plus célèbres.
+
+.N 149
+.D 18/10/2024
+.C CULTURE
+.T " Nous, professionnels du cinéma, appelons à doter la France d'un musée national du cinéma ". C'est en racontant le septième art à nos publics que nous garderons la maîtrise de notre histoire, juge un collectif de personnalités du septième art membres du conseil d'administration de la Cinémathèque française, dont le réalisateur Costa-Gavras et l'actrice Carole Bouquet.
+
+.N 150
+.D 18/10/2024
+.C CULTURE
+.T Les traîtres débarquent en meute à la télévision. Face au succès des " Traîtres ", sur M6, TF1 et Canal+ ont lancé le 11 octobre leur variante cathodique du jeu des Loups-garous.
+
+.N 151
+.D 18/10/2024
+.C CULTURE
+.T " Rideau de fer. L'occupation soviétique ", sur Arte.tv : une histoire intime de la soviétisation forcée. Le documentaire de Tania Rakhmanova raconte la vie quotidienne entre 1945 et 1961 en Europe centrale.
+
+.N 152
+.D 18/10/2024
+.C CULTURE
+.T A la Comédie-Française, un " Suicidé " de vaudeville. La mise en scène de cette pièce russe de Nicolaï Erdman, censurée aussitôt après sa publication, en 1930, en minore la dimension politique.
+
+.N 153
+.D 18/10/2024
+.C CULTURE
+.T " Culte " sur Prime Video, " Loft Story " côté coulisses. La série dévoile les secrets de fabrication de l'émission pionnière de la télé-réalité en France, diffusée à partir de 2001 sur M6.
+
+.N 154
+.D 18/10/2024
+.C CULTURE
+.T Un apéro avec François Civil : " J'ai un côté franchouillard ". Vingt ans après ses débuts, la coqueluche du cinéma français confirme dans " L'Amour ouf " son statut de héros romantique. Et garde les pieds sur terre, même s'il adore la grimpe.
+
+.N 155
+.D 18/10/2024
+.C CULTURE
+.T Sélection albums : Ensemble Paramirabo, Roger Quilter, Joni Mitchell, MC5, 13 Organisé, Walid Ben Selim. A écouter cette semaine : cinq œuvres atypiques ; des pièces magnifiques de la première décennie du XXe siècle ; une fusion de folk et de jazz ; l'ultime opus d'un groupe garage rock de Detroit ; trente-cinq morceaux d'un rappeur venu de Marseille ; une voix voguant entre douceur enivrante et puissance frissonnante.
+
+.N 156
+.D 18/10/2024
+.C CULTURE
+.T De Maurice à Mayotte : la sélection musicale du " Monde Afrique " #202. Sensualité, colère et nostalgie sont au programme de cette playlist qui nous transporte de l'archipel des Mascareignes à celui des Comores, en passant par Madagascar.
+
+.N 157
+.D 18/10/2024
+.C CULTURE
+.T Dans le Béarn, l'architecture se met au service du handicap. A Rivehaute, dans les Pyrénées-Atlantiques, l'Institut thérapeutique éducatif et pédagogique est devenu un cas pratique pour les étudiants en architecture, encadrés par l'agence Collectif Encore, chapeautée par Anna Chavepayre.
+
+.N 158
+.D 18/10/2024
+.C CULTURE
+.T " Complément d'enquête " sur Gérard Depardieu : la justice ordonne une expertise. Tournées lors d'un voyage en Corée du Nord en 2018, les images montraient l'acteur français multiplier les commentaires misogynes et insultants dans un haras, tandis qu'à l'écran une fillette faisait du cheval.
+
+.N 159
+.D 19/10/2024
+.C CULTURE
+.T La peintre Tarsila do Amaral ou les équivoques du modernisme, au Musée du Luxembourg. L'artiste brésilienne, exposée jusqu'au 2 février 2025 dans l'établissement parisien, resta captive des stéréotypes sociaux et raciaux dominants à son époque.
+
+.N 160
+.D 19/10/2024
+.C CULTURE
+.T Les replays du week-end : " Comment se nourrir sans détruire la planète ? ", " Les Frères Menendez ", " Samy et les anges de la Timone ", " Notre histoire de France ". Le samedi, " La Matinale " vous propose une sélection de programmes à (re) voir ou à (ré) écouter en différé. Cette semaine, notamment, l'alimentation de demain et une immersion dans le service des enfants malades de la Timone.
+
+.N 161
+.D 19/10/2024
+.C CULTURE
+.T L'intelligence artificielle générative en observation au Marché des musiques actuelles. Lors de la convention professionnelle organisée à Paris, du 16 au 18 octobre, les artistes ont pu débattre des avancées permises par l'IA, mais aussi des menaces qu'elle fait peser sur la filière.
+
+.N 162
+.D 19/10/2024
+.C CULTURE
+.T " Tom Wesselmann est comme une araignée au milieu de sa toile, au centre d'un réseau qui connecte différents artistes ". Commissaires de l'exposition " Pop Forever, Tom Wesselmann &amp;… " à la Fondation Louis Vuitton, Dieter Buchhart et Anna Karina Hofbauer évoquent l'influence de l'Américain sur ses contemporains mais aussi sur les jeunes artistes, notamment avec ses innovations techniques et les objets du quotidien intégrés à ses œuvres.
+
+.N 163
+.D 19/10/2024
+.C CULTURE
+.T A l'Accor Arena de Paris, les Fugees font taire les critiques. Vendredi 18 octobre, lors de leur premier concert à l'Accor Arena de Paris, Lauryn Hill et Wyclef Jean ont interprété les morceaux de leur groupe et de leurs carrières solos.
+
+.N 164
+.D 19/10/2024
+.C CULTURE
+.T Jacques Develay, le drôle de paroissien de " Miséricorde ", d'Alain Guiraudie. L'acteur, qui a renoncé à devenir prêtre dans sa jeunesse, interprète un mystérieux abbé au désir trouble dans le film du cinéaste aveyronnais.
+
+.N 165
+.D 19/10/2024
+.C CULTURE
+.T " Sardaigne, la mystérieuse civilisation des nuraghes ", sur Arte, un monde disparu surprenant. Sur Arte, un documentaire fait le point sur la civilisation disparue qui a donné naissance à près de 8 000 tours sur l'île, à l'âge du bronze.
+
+.N 166
+.D 19/10/2024
+.C CULTURE
+.T " Chef's Table : Noodles ", sur Netflix : quand la nouille se noie dans sa sophistication. Au cours de ces quatre nouveaux épisodes, la série créée par David Gelb, qui a révolutionné le documentaire culinaire, célèbre la pâte d'origine italienne et asiatique
+
+.N 167
+.D 19/10/2024
+.C CULTURE
+.T Rachida Dati favorable à un musée national du cinéma. Un tel projet a été défendu dans une tribune publiée vendredi dans Le Monde par des figures du 7e Art. La ministre de la culture a appelé samedi à Lyon à une " vraie réflexion sur ce sujet ".
+
+.N 168
+.D 20/10/2024
+.C CULTURE
+.T Un nouvel album, une comédie musicale au cinéma… Clara Luciani, les refrains de l'époque. Depuis "La Grenade", sorti en 2018, Clara Luciani s'acharne à démontrer qu'elle n'est pas la chanteuse d'un tube. Après un deuxième album aux tonalités disco, la trentenaire revient avec "Mon sang", un disque plus rock marqué par son expérience de la maternité. Marraine cette saison de la "Star Academy", elle fera ses débuts au cinéma à Noël dans "Joli Joli".
+
+.N 169
+.D 20/10/2024
+.C CULTURE
+.T Magyd Cherfi, chanteur et écrivain : " On veut à la fois que nos enfants soient là et qu'ils dégagent ". " Vie de parents ". Une personnalité évoque les joies et les épreuves de son quotidien avec des enfants. L'ancien leader de Zebda, passé à l'écriture, explique avoir toujours été à la fois très protecteur et très cool envers ses deux fils, aujourd'hui âgés de 27 et 30 ans.
+
+.N 170
+.D 20/10/2024
+.C CULTURE
+.T Les folles années de la Fondation Cartier, pionnière du mécénat privé. Le 20 octobre 1984, la maison Cartier inaugurait à Jouy-en-Josas, dans les Yvelines, un lieu consacré à l'art contemporain. A coups d'expositions décoiffantes, sa fondation a mis en lumière inconnus prometteurs et artistes confirmés. Ce mécénat a ouvert la voie à l'arrivée des grands groupes privés dans le champ culturel, jusque-là jalousement gardé par l'Etat.
+
+.N 171
+.D 20/10/2024
+.C CULTURE
+.T Traduction par IA : " Les algorithmes génératifs produisent non pas du langage, mais une langue simulée ". Le traducteur littéraire Jörn Cambreleng insiste, dans une tribune au " Monde ", sur la différence fondamentale entre une langue nourrie par une subjectivité humaine et un écrit, dénué de responsabilité, généré par un logiciel.
+
+.N 172
+.D 20/10/2024
+.C CULTURE
+.T Philippe Labro, écrivain : " J'ai tendance à ne garder que les bonnes choses de la vie ". " Je ne serais pas arrivé là si…  " Chaque semaine, " Le Monde " interroge une personnalité sur un moment décisif de son existence. L'homme de média, écrivain, réalisateur, parolier, revient sur sa découverte des Etats-Unis, à l'âge de 18 ans.
+
+.N 173
+.D 20/10/2024
+.C CULTURE
+.T Les premières années de Jackson Pollock, œuvrant dans l'obsession de Picasso. Le Musée Picasso, à Paris, consacre une exposition aux débuts du peintre américain, sous l'influence du Catalan, avant qu'il s'en libère, en 1947, grâce à Miró.
+
+.N 174
+.D 20/10/2024
+.C CULTURE
+.T Charles Aznavour dans " Le Monde ", du jeune compositeur snobé à l'artiste au sommet. Ce 23 octobre sort sur les écrans " Monsieur Aznavour ", un biopic consacré par Mehdi Idir et Grand Corps Malade au chanteur mort en 2018. La première fois que son nom apparaît dans les colonnes du " Monde ", en 1951, la reconnaissance et la gloire ne sont pourtant pas à l'ordre du jour…
+
+.N 175
+.D 20/10/2024
+.C CULTURE
+.T Bill Lawrence, scénariste de la série " Shrinking " : " J'écris en général à propos de ce que je traverse ". Le cocréateur de la fiction diffusée sur Apple TV+, à qui l'on doit aussi " Spin City et " Scrubs ",  explique, dans un entretien au " Monde ", qu'il a voulu déconstruire l'image des " psys ".
+
+.N 176
+.D 20/10/2024
+.C CULTURE
+.T Cinéma à l'école : " L'éducation aux images est un enjeu majeur pour la jeunesse ". Il est essentiel de tisser des liens entre les élèves et leurs professeurs d'un côté, les professionnels du cinéma et les partenaires culturels de l'autre, soulignent, dans une tribune au " Monde ", un collectif du septième art, qui comprend entre autres Yvan Attal, Agnès Jaoui, Gilles Lellouche.
+
+.N 177
+.D 20/10/2024
+.C CULTURE
+.T " Bambi ", l'histoire d'une polémique dans les bois. " Au bestiaire ! ". Avant même la sortie du film de Michel Fessler, une association de défense des animaux a dénoncé l'utilisation de véritables faons, au lieu d'images de synthèse. L'organisation PAZ considère que cette pratique piétine les valeurs de Felix Salten, auteur de l'œuvre originale parue en 1923.
+
+.N 178
+.D 20/10/2024
+.C CULTURE
+.T " Shrinking saison 2 ", sur Apple TV+ : un formidable exutoire à la morosité. La série revient pour onze nouveaux épisodes où l'on retrouve le psychothérapeute, joué par Jason Segel, trois ans après le drame qui a fait de lui un veuf.
+
+.N 179
+.D 20/10/2024
+.C CULTURE
+.T " Fraude fiscale : ces milliards qui échappent à l'Etat… et aux Français ", sur M6 : sur la trace des fraudeurs du fisc. Ce reportage de " Zone interdite " montre que le paiement en liquide, " pratique ancienne et décomplexée " permettant d'échapper à l'impôt, ne concerne pas que le petit commerce ou le BTP. Et que l'Etat demeure impuissant dans bien des cas.
+
+.N 180
+.D 20/10/2024
+.C CULTURE
+.T " Opération Trump, les espions russes à la conquête de l'Amérique ", sur France 5 : le Parti républicain et Donald Trump sous l'influence de Moscou. Un passionnant documentaire construit comme un film d'espionnage, sur cinquante ans de l'histoire secrète de l'emprise russe sur la droite américaine.
+
+.N 181
+.D 20/10/2024
+.C CULTURE
+.T Le marionnettiste Johanny Bert et l'ange lassé de son immortalité. Avec " Le Spleen de l'ange ", inspiré par un film de Wim Wenders, le metteur en scène et comédien continue d'explorer des formes d'expression hybrides autour de la marionnette.
+
+.N 182
+.D 20/10/2024
+.C CULTURE
+.T Sur France Inter : Taylor Swift, le phénomène décrypté par une ado et son père. A quelques semaines de l'élection présidentielle américaine, et alors que la chanteuse a apporté son soutien à Kamala Harris, Xavier Yvon, ancien correspondant de Radio France aux Etats-Unis, a pris la route avec sa " swiftie " de fille pour prendre la mesure de l'engouement.
+
+.N 183
+.D 21/10/2024
+.C CULTURE
+.T " Wild God ", " En songe. Solovoice 1 ", " Luck and Strange "… Nos choix d'albums. Le lundi, le service Culture du " Monde " propose aux lecteurs de " La Matinale " ses choix en matière de musique. Cette semaine, notamment, les derniers opus de Nick Cave et de David Gilmore.
+
+.N 184
+.D 21/10/2024
+.C CULTURE
+.T La BNF en appelle aux dons pour acquérir les planches originales de " La bête est morte ! ", d'Edmond-François Calvo. Initialement publié en 1944, ce joyau de l'histoire du neuvième art pourrait rejoindre les collections de la Bibliothèque nationale de France qui a lancé une souscription.
+
+.N 185
+.D 21/10/2024
+.C CULTURE
+.T " Eden ", une sélection de tirages mis en vente par Magnum Photos. L'agence Magnum Photos s'associe à The Photo Society pour la prochaine vente, du 21 au 27 octobre, de tirages au format carré, intitulée " Eden ". Les œuvres explorent la beauté miraculeuse des paysages, des écosystèmes et des populations, tout en mettant l'accent sur la nécessité de protéger les ressources naturelles d'une menace existentielle : l'humanité.
+
+.N 186
+.D 21/10/2024
+.C CULTURE
+.T L'actrice Christine Boisson connue pour ses rôles dans " Emmanuelle " et " Le Bal des actrices " est morte. L'actrice française qui a également tourné avec Antonioni est morte le 21 octobre, à l'âge de 68 ans, à Paris, d'une maladie pulmonaire, a appris l'Agence France-Presse auprès de sa fille.
+
+.N 187
+.D 22/10/2024
+.C CULTURE
+.T Nos choix de séries : " Les enfants sont rois ", " Dans l'ombre ", " Before ". Chaque mardi, " La Matinale " propose une sélection de séries à (re) découvrir sur le petit écran. Cette semaine, dénonciation de l'exploitation numérique des petits, thriller politique à la française et reconversion de Billy Crystal dans l'horreur.
+
+.N 188
+.D 22/10/2024
+.C CULTURE
+.T " Monsieur Aznavour " : ses amours, ses galères, ses rencontres. Tahar Rahim incarne de manière fascinante le chanteur dans le biopic de Mehdi Idir et Grand Corps Malade.
+
+.N 189
+.D 22/10/2024
+.C CULTURE
+.T Prix Goncourt 2024 : les finalistes sont Sandrine Collette, Kamel Daoud, Gaël Faye et Hélène Gaudy. Le gagnant du plus prestigieux des prix littéraires français sera annoncé le 4 novembre.
+
+.N 190
+.D 22/10/2024
+.C CULTURE
+.T La comédienne Christine Boisson est morte à l'âge de 68 ans. L'actrice, qui avait débuté adolescente dans le film " Emmanuelle " puis avait été révélée par " Extérieur, nuit ", avait fait une partie de sa carrière au théâtre auprès des plus grands metteurs en scène.
+
+.N 191
+.D 22/10/2024
+.C CULTURE
+.T Dans " L'Amante anglaise ", Sandrine Bonnaire imprime sa présence concrète dans un spectacle à l'imparfait. La comédienne incarne le rôle-titre dans la pièce de Marguerite Duras, mise en scène par Jacques Osinski au Théâtre de l'Atelier, à Paris.
+
+.N 192
+.D 22/10/2024
+.C CULTURE
+.T " Adieu sauvage ", sur France 2 : comment dit-on " amour " en langage cacua ?. Retour aux sources pour le réalisateur Sergio Guataquira Sarmiento, descendant d'une communauté indienne en forêt colombienne.
+
+.N 193
+.D 22/10/2024
+.C CULTURE
+.T René Lacaille, ambassadeur généreux de la musique réunionnaise. L'accordéoniste, chanteur, auteur-compositeur et guitariste publie un nouvel album et fête cette année ses 70 ans de scène. Il participera, le 26 octobre, aux 24 heures de l'accordéon, à Toulouse.
+
+.N 194
+.D 22/10/2024
+.C CULTURE
+.T La danse afro-américaine magnifiée par la compagnie Alvin Ailey. La troupe américaine présente, au Palais des congrès, à Paris, deux programmes qui perpétuent l'esprit généreux du fondateur.
+
+.N 195
+.D 22/10/2024
+.C CULTURE
+.T Au Musée du Louvre, l'art de représenter la démence. L'exposition " Figures du fou " montre comment le regard sur la folie s'est modifié depuis le Moyen Age jusqu'au XIXᵉ siècle.
+
+.N 196
+.D 23/10/2024
+.C CULTURE
+.T Les films à l'affiche : " Carla et moi ", " La Déposition ", " Coconut Head Generation ", " Monsieur Aznavour " et un cycle Sean Baker. Chaque mercredi dans " La Matinale ", les journalistes de la rubrique cinéma du " Monde " livrent leurs critiques des films à découvrir en salle.
+
+.N 197
+.D 23/10/2024
+.C CULTURE
+.T Roman Polanski échappe à un procès au civil pour viol sur mineur après un accord en Californie. Le procès devait se tenir en août 2025 pour des faits survenus en 1973, mais la présence au tribunal du cinéaste de 91 ans était très hypothétique, après qu'il a fui la justice américaine en 1977.
+
+.N 198
+.D 23/10/2024
+.C CULTURE
+.T Les bandes dessinées font-elles un bon placement ?. Si l'appétit des collectionneurs ne se dément pas pour la BD, la prudence reste de mise avant tout achat, pour éviter, notamment de se retrouver avec un " faux " entre les mains.
+
+.N 199
+.D 23/10/2024
+.C CULTURE
+.T La Banque postale Coupe de France de " League of Legends ", sur France.tv : quand France Télévisions se met à l'heure de l'e-sport. En plein championnat du monde, la chaîne retransmet l'intégralité de la troisième édition de la compétition nationale et pléthore de vidéos didactiques autour de ce jeu devenu phénomène de société.
+
+.N 200
+.D 23/10/2024
+.C CULTURE
+.T Mort de François Duret-Robert, juriste et journaliste spécialiste du marché de l'art. Pour " Connaissance des arts ", " Le Figaro " ou " Le Monde ", ce féru de droit savait manier l'ironie afin de raconter les mille et une histoires du milieu. Il est mort le lundi 14 octobre, à Paris, à l'âge de 92 ans.
+
+.N 201
+.D 13/10/2024
+.C ECONOMIE
+.T Flottes d'entreprise : les petites voitures françaises plébiscitées. Renault, Peugeot et Citroën s'imposent dans le top 5 des voitures particulières de société en France, selon un classement établi fin septembre par l'Arval Mobility Observatory.
+
+.N 202
+.D 13/10/2024
+.C ECONOMIE
+.T Panne électrique pour Maserati. Confrontée aux réticences de sa clientèle à abandonner le moteur thermique, la marque au trident est mal en point.
+
+.N 203
+.D 13/10/2024
+.C ECONOMIE
+.T Automobile : l'électrique progresse doucement dans les flottes d'entreprise. Les ventes de véhicules s'essoufflent depuis quelques mois en France. Mais la dynamique de " verdissement " des parcs de société, qui tire le segment des voitures à batterie, laisse espérer un rebond dès 2025.
+
+.N 204
+.D 13/10/2024
+.C ECONOMIE
+.T Flottes d'entreprise : Tesla règne sur la voiture électrique. Deux modèles de la marque américaine se classent dans le top 5 des " wattures " d'entreprise en France, selon le classement établi fin septembre par l'Arval Mobility Observatory.
+
+.N 205
+.D 13/10/2024
+.C ECONOMIE
+.T SpaceX réussit la récupération du premier étage de Starship, un pas vers la réutilisation. Les bras mécaniques de la tour de lancement de la mégafusée ont capturé le lanceur Super Heavy avant qu'il ne touche le sol, marquant une avancée pour l'entreprise spatiale d'Elon Musk.
+
+.N 206
+.D 13/10/2024
+.C ECONOMIE
+.T Le secteur aérien, pionnier de la fluctuation des prix. La dérégulation du marché aéronautique dans les années 1970 et 1980 s'est opérée autour d'un système de tarification qui a modifié les pratiques et révolutionné le secteur.
+
+.N 207
+.D 13/10/2024
+.C ECONOMIE
+.T Le juste prix, obsession de toujours des économistes. Eternelle question de la science économique, la détermination des prix a connu de nouveaux bouleversements théoriques avec l'émergence de la tarification dynamique dans la seconde moitié du XXᵉ siècle.
+
+.N 208
+.D 13/10/2024
+.C ECONOMIE
+.T LGV Bordeaux-Toulouse : une perquisition menée sur le camp des opposants au projet après des dégradations. Selon le collectif LGV Non Merci, plusieurs unités de la gendarmerie ont fait irruption dimanche sur le camp installé à Lerm-et-Musset. La préfecture a fait état de trois interpellations au cours du week-end.
+
+.N 209
+.D 14/10/2024
+.C ECONOMIE
+.T Au Japon, le nouveau billet de 10 000 yens froisse les jeunes mariés. La nouvelle coupure en circulation depuis juillet est illustrée par le visage d'Eiichi Shibusawa, industriel considéré comme le " père de l'économie japonaise moderne ", mais aussi connu pour son infidélité et sa muflerie.
+
+.N 210
+.D 14/10/2024
+.C ECONOMIE
+.T Les Etats-Unis imposent de nouvelles sanctions aux effets limités à l'Iran. Les mesures adoptées vendredi 11 octobre visent les industries iraniennes de la pétrochimie et du pétrole, ainsi qu'une vingtaine de navires et plusieurs entreprises à l'étranger, accusés de faciliter le transport, les exportations ou la production dans ces secteurs.
+
+.N 211
+.D 14/10/2024
+.C ECONOMIE
+.T Saumon : les failles du label ASC qui prône un élevage " responsable ". Cette certification est censée accompagner le consommateur vers un choix écologiquement vertueux. Mais elle tolère des pratiques d'élevage controversées et contestées par les ONG spécialisées.
+
+.N 212
+.D 14/10/2024
+.C ECONOMIE
+.T Les start-up du spatial doivent convaincre les investisseurs de la viabilité des projets déjà lancés. Depuis deux ans, le financement des jeunes entreprises du new space s'est stabilisé en France et dans le monde.
+
+.N 213
+.D 14/10/2024
+.C ECONOMIE
+.T Quand le fisc révèle au mari qu'il est trompé. L'administration a adressé à un époux une proposition de rectification qui décrivait par le menu les relations adultères de sa femme.
+
+.N 214
+.D 14/10/2024
+.C ECONOMIE
+.T A Londres, Canary Wharf, quartier des affaires à la dérive. Cette péninsule londonienne emblématique de la finance a perdu plusieurs locataires prestigieux et souffre d'un taux de vacance record. Elle espère qu'un afflux de résidents pourra lui redonner vie.
+
+.N 215
+.D 14/10/2024
+.C ECONOMIE
+.T Assurance-vie : l'avenir des fonds en euros redessiné par la baisse des taux. En affichant, pour 2023, une rentabilité en forte hausse, les fonds en euros ont quelque peu retrouvé la faveur des épargnants en quête de placements sécurisés. Mais le nouveau cycle de baisse des taux directeurs pourrait freiner cet élan.
+
+.N 216
+.D 14/10/2024
+.C ECONOMIE
+.T De trop nombreuses " affaires devraient conduire Nestlé à s'intéresser à sa gestion du risque éthique ". Contamination des pizzas Buitoni, traitement des eaux Vittel, Contrex, Hépar et Perrier, le nouveau patron du groupe Nestlé doit mettre en place une nouvelle stratégie de gestion des risques, coûteux pour l'entreprise, estime Caroline Aubry, chercheuse en sciences de gestion, dans une tribune au " Monde ".
+
+.N 217
+.D 14/10/2024
+.C ECONOMIE
+.T Voitures électriques : les rêves européens du géant chinois BYD passent par une usine en Turquie. Le constructeur automobile chinois, premier fabricant mondial sur le créneau de l'électrique, investit 1 milliard de dollars à Manisa, axe stratégique de la côte égéenne.
+
+.N 218
+.D 14/10/2024
+.C ECONOMIE
+.T Les formations en relations internationales portées par l'actualité : guerres, conflits, attentats…. L'évolution du contexte international attire de nombreux étudiants à se tourner vers les formations en relations internationales et en géopolitique.
+
+.N 219
+.D 14/10/2024
+.C ECONOMIE
+.T Assurances : rumeurs et fausses informations perturbent de plus en plus la gestion des risques majeurs. La désinformation handicape la prévention et complique la gestion des événements climatiques, sanitaires et sociaux, constate le rapport annuel d'Axa sur les risques futurs.
+
+.N 220
+.D 14/10/2024
+.C ECONOMIE
+.T Pour l'épargne, une nouvelle ère s'ouvre. Quels effets la nouvelle politique monétaire aura-t-elle sur votre argent ? La première édition des Rencontres de l'épargne, organisée le 15 octobre à Nantes par " Le Monde ", abordera les différents enjeux à avoir en tête pour ses placements.
+
+.N 221
+.D 14/10/2024
+.C ECONOMIE
+.T Le Mondial de l'automobile s'ouvre sur fond de conjoncture difficile. L'équation des constructeurs pour les années qui viennent est délicate. D'un côté, les ventes de voitures électriques patinent, de l'autre, l'activité historique des véhicules à moteur thermique est taxée. L'approche du gouvernement donne un cap clair : celui de l'électrification du parc, en pénalisant les modèles les plus polluants.
+
+.N 222
+.D 14/10/2024
+.C ECONOMIE
+.T Inventiva réalise l'une des plus importantes levées de fonds d'une biotech en France. La jeune pousse bourguignonne vient de décrocher un financement de 348 millions d'euros pour développer son traitement contre la NASH, la stéatose hépatique non alcoolique.
+
+.N 223
+.D 14/10/2024
+.C ECONOMIE
+.T Automobile : les stratégies chinoises face au protectionnisme européen. Les grands constructeurs ont noué des alliances avec des concurrents pour pouvoir s'implanter sur le sol européen ou dans des pays partenaires.
+
+.N 224
+.D 14/10/2024
+.C ECONOMIE
+.T La bataille du lithium relancée par un rachat à 7 milliards de dollars. Le groupe minier Rio Tinto a acquis Arcadium Lithium, un des leaders mondiaux dans l'extraction du minerai essentiel à la production de batteries électriques. Une opération à 6,7 milliards de dollars qui intervient alors que le marché de l'or blanc est à la baisse.
+
+.N 225
+.D 14/10/2024
+.C ECONOMIE
+.T " Fort de ce nouveau "grand bond", SpaceX creuse un peu plus le fossé avec l'Europe, la Chine et ses concurrents américains ". La société d'Elon Musk a pour la première fois réussi à récupérer le premier étage " Super Heavy " de la fusée Starship, lors de son cinquième tir d'essai. Une avancée considérable qui permet à l'entreprise de réutiliser l'étage afin de réduire les coûts des lancements suivants, analyse Jean-Michel Bezat, journaliste économique au " Monde ".
+
+.N 226
+.D 14/10/2024
+.C ECONOMIE
+.T A Madrid, la colère des jeunes face au coût du logement. Dans la capitale espagnole, les prix des loyers ont augmenté en moyenne de près de 30 % ces cinq dernières années.
+
+.N 227
+.D 14/10/2024
+.C ECONOMIE
+.T Le prix Nobel d'économie 2024 attribué à Daron Acemoglu, Simon Johnson et James Robinson pour leurs recherches sur les différences de prospérité entre les nations. Après l'Américaine Claudia Goldin, primée en 2023 pour ses travaux sur l'évolution de la place des femmes sur le marché de l'emploi, le comité Nobel a récompensé les trois chercheurs.
+
+.N 228
+.D 14/10/2024
+.C ECONOMIE
+.T L'Afrique subsaharienne prise au " piège " d'une croissance trop faible. La reprise économique dans la région demeure " à la traîne " par rapport au reste du monde, selon la Banque mondiale, qui préconise d'investir davantage dans l'éducation.
+
+.N 229
+.D 14/10/2024
+.C ECONOMIE
+.T Accidents du travail : lancement de la deuxième campagne de sensibilisation. Investie sur cette question bien avant d'être ministre du travail, Astrid Panosyan-Bouvet entend faire de la lutte contre ce fléau l'une des priorités de son action au gouvernement.
+
+.N 230
+.D 14/10/2024
+.C ECONOMIE
+.T Guerre de contrôle autour de Wordpress, l'un des principaux outils de création de sites Web. Le populaire logiciel de gestion de contenus est au cœur d'une guerre juridique entre deux grandes entreprises-clés de l'écosystème Wordpress.
+
+.N 231
+.D 14/10/2024
+.C ECONOMIE
+.T Les rencontres de l'épargne | Les épargnants dans l'étau des taux ?. " Le Monde " vous invite à suivre la première édition des Rencontres de l'épargne, ce mardi 15octobre 2024 au Palace à Nantes. Un événement en partenariat avec BoursoBank.
+
+.N 232
+.D 14/10/2024
+.C ECONOMIE
+.T Spotify élargit son offre de livres audio à la France. En accord avec les grands groupes d'édition, la plateforme de streaming musical propose sans supplément à ses abonnés premium douze heures d'écoute de livres audio par mois.
+
+.N 233
+.D 14/10/2024
+.C ECONOMIE
+.T Doliprane : Emmanuel Macron assure que le gouvernement peut " garantir " la protection de l'approvisionnement de la France. Sanofi a récemment déclaré vouloir céder sa filiale de santé grand public Opella, qui commercialise le médicament, au fonds américain CD &amp; R, suscitant l'inquiétude d'une partie de la classe politique française.
+
+.N 234
+.D 14/10/2024
+.C ECONOMIE
+.T Aéroports et compagnies se rebiffent contre la taxe sur le transport aérien. La Fédération nationale de l'aviation et de ses métiers et l'Union des aéroports français se sont réunis, lundi 14 octobre, pour dénoncer le " choc fiscal " du gouvernement Barnier au secteur aérien.
+
+.N 235
+.D 14/10/2024
+.C ECONOMIE
+.T Prix Nobel 2024 : quand l'économie découvre l'histoire. Daron Acemoglu, Simon Johnson et James Robinson ont été récompensés par le jury de la Banque de Suède pour leurs travaux sur les inégalités de développement entre pays
+
+.N 236
+.D 14/10/2024
+.C ECONOMIE
+.T Le premier ministre britannique, Keir Starmer, déroule le tapis rouge pour les grands patrons. Voûtes gothiques, cathédrale Saint-Paul et roi Charles III… L'hôte de Downing Street tente d'attirer le " big business " au Royaume-Uni. Un exercice délicat, au moment où l'exécutif prévoit d'encadrer – et probablement de taxer – davantage les entreprises.
+
+.N 237
+.D 14/10/2024
+.C ECONOMIE
+.T Pollution de l'air dans le métro parisien et le RER : treize stations au-delà des seuils recommandés. Les stations les plus polluées sont Belleville, Iéna, Jaurès, Laumière, Michel-Ange-Auteuil, Michel-Ange-Molitor, Oberkampf, Ourcq, Père-Lachaise, Pigalle, Saint-Philippe-du-Roule et Trocadéro.
+
+.N 238
+.D 14/10/2024
+.C ECONOMIE
+.T BFMTV fait face à une vague de départs inédite. L'annonce par Philippe Corbé, le directeur de la rédaction, de son prochain départ soulève des inquiétudes sur l'indépendance éditoriale de la chaîne. De son côté, la direction invoque l'opportunité offerte par la clause de cession, ouverte à la suite du rachat de BFMTV et RMC par Rodolphe Saadé.
+
+.N 239
+.D 15/10/2024
+.C ECONOMIE
+.T Vente du Doliprane à un fonds américain : le gouvernement veut des garanties. Les ministres Antoine Armand et Marc Ferracci se sont rendus, lundi, à l'usine Sanofi de Lisieux en Normandie, où est fabriqué l'antidouleur, afin de rencontrer les salariés et les syndicats.
+
+.N 240
+.D 15/10/2024
+.C ECONOMIE
+.T La France et les Pays-Bas signent un accord de coopération sur le nucléaire. Ce texte, dont la ministre française de la transition écologique, Agnès Pannier-Runacher, a annoncé la signature, lundi, est destiné à " approfondir la coopération énergétique " entre les deux pays après un premier accord signé le 12 avril 2023.
+
+.N 241
+.D 15/10/2024
+.C ECONOMIE
+.T IA : " En Californie, la "fin du travail" traditionnel est un phénomène en voie de banalisation ". La montée en puissance de l'intelligence artificielle entraîne des révolutions technologiques qui donnent le tournis en Californie, à ses meilleurs élèves : les salariés de la tech, constate Corine Lesnes, dans sa chronique.
+
+.N 242
+.D 15/10/2024
+.C ECONOMIE
+.T Dette : la fuite en avant des candidats à la présidentielle américaine. " L'économie, enjeu d'une Amérique fracturée. " A 1 830 milliards de dollars, le déficit public des Etats-Unis est hors de contrôle. Les mesures promises par Donald Trump – baisse d'impôts, détaxe des heures supplémentaires, hausse des droits de douane… – ou par Kamala Harris – hausse des aides sociales, baisse du prix des médicaments, effacement partiel des dettes étudiantes… – sont susceptibles de propulser la dette à de nouveaux sommets.
+
+.N 243
+.D 15/10/2024
+.C ECONOMIE
+.T Divorce ou séparation, un remue-ménage pour les finances du couple. Epargne, fiscalité, immobilier : la rupture a des impacts pécuniaires considérables, qui diffèrent selon le statut juridique de son union (mariage, pacs, concubinage). Pour les propriétaires, la donne s'avère plus complexe encore.
+
+.N 244
+.D 15/10/2024
+.C ECONOMIE
+.T " On est payé comme dans le conseil, sauf qu'on ne bosse pas jusqu'à 21 heures " : la vie rêvée des jeunes commerciaux dans le secteur de la tech. Les jeunes diplômés des écoles de commerce sont séduits par les nombreux avantages déployés dans les entreprises du numérique : conditions de travail, bénéfices financiers, flexibilité. Au risque d'accepter une pression continue.
+
+.N 245
+.D 15/10/2024
+.C ECONOMIE
+.T Banques : Reclaim Finance alerte sur la persistance du financement du charbon. Dénonçant des " failles ", l'ONG demande à l'Autorité des marchés financiers d'exiger des établissement bancaires un respect de leurs engagements sur l'arrêt des financements du secteur.
+
+.N 246
+.D 15/10/2024
+.C ECONOMIE
+.T Harcèlements : les embarras de l'employeur enquêteur. La chronique de Francis Kessler révèle les nombreuses conditions nécessaires pour mener à bien une enquête sur une salariée victime de harcèlement moral ou sexuel.
+
+.N 247
+.D 15/10/2024
+.C ECONOMIE
+.T Les contrats d'assurance obsèques seront plus lisibles et leurs garanties améliorées. Le Comité consultatif du secteur financier demande aux assureurs de rendre les " contrats obsèques " plus clairs et d'améliorer leurs pratiques.
+
+.N 248
+.D 15/10/2024
+.C ECONOMIE
+.T Chez Ubisoft, les salariés appelés à trois jours de grève. Plusieurs piquets de grève sont prévus devant les différents studios de l'éditeur de jeux, notamment à Paris, Lyon, Montpellier et Annecy, après l'annonce par le groupe d'imposer au moins trois jours de présence au bureau par semaine.
+
+.N 249
+.D 15/10/2024
+.C ECONOMIE
+.T Alstom, Arcelor, Pechiney… ces autres fleurons industriels français passés sous pavillon étranger. La vente par Sanofi de sa filiale qui commercialise le Doliprane à un fonds d'investissement américain réveille les inquiétudes sur la perte de souveraineté.
+
+.N 250
+.D 15/10/2024
+.C ECONOMIE
+.T " Pour un travaillisme écologiste, réunissons la France des RER et des TER ". Alors que le gouvernement de Michel Barnier coupe les aides publiques à la transition, le chercheur Timothée Duverger et l'essayiste Erwan Ruty invitent, dans une tribune au " Monde ", à intégrer les classes populaires dans la planification écologique.
+
+.N 251
+.D 15/10/2024
+.C ECONOMIE
+.T Nucléaire : " Les princes qui vont réveiller la belle endormie sont inattendus et pleins de potentiel : les géants de la technologie ". Cet emballement des Gafam pour le nucléaire est la conséquence du développement de la consommation électrique des grands centres de données informatiques avec le basculement vers l'intelligence artificielle, constate Philippe Escande, éditorialiste économique au " Monde ".
+
+.N 252
+.D 15/10/2024
+.C ECONOMIE
+.T La campagne du petit-fils d'André Citroën pour le faire entrer au Panthéon. Henri-Jacques Citroën entend d'autant plus rappeler l'incroyable ingéniosité de son grand-père, le fondateur de la firme aux chevrons, qu'elle est snobée par Stellantis, le groupe franco-italien détenteur de la marque.
+
+.N 253
+.D 15/10/2024
+.C ECONOMIE
+.T Automobile : " Retarder les objectifs climatiques n'offrira pas de salut durable à notre industrie ". Alors que s'ouvre à Paris le Mondial de l'automobile, les eurodéputés français du groupe Socialistes et démocrates, parmi lesquels Raphaël Glucksmann et Nora Mebarek, rappellent, dans une tribune au " Monde ", qu'en termes d'emploi, d'environnement et de juste échange, l'Europe doit faire des choix cruciaux pour l'industrie automobile.
+
+.N 254
+.D 15/10/2024
+.C ECONOMIE
+.T Lucrezia Reichlin : " Le conflit géopolitique qui menace le modèle économique européen devrait susciter un sentiment d'urgence ". Alors que l'économie européenne est en plein décrochage face à ses concurrents, l'économiste italienne appelle, dans une tribune au " Monde ", à un sursaut politique de l'UE pour adopter les grandes lignes du rapport Draghi.
+
+.N 255
+.D 15/10/2024
+.C ECONOMIE
+.T Elections dans les très petites entreprises : la justice autorise la participation d'un syndicat " gilets jaunes ". Le tribunal judiciaire de Paris a estimé, lundi 14 octobre, que la candidature de cette organisation était recevable, ce que contestaient les six principales organisations de salariés.
+
+.N 256
+.D 15/10/2024
+.C ECONOMIE
+.T Voiture électrique : BMW qui sourit, Volkswagen qui pleure. Tandis que BMW connaît une croissance notable sur le marché européen des véhicules à batterie, Volkswagen peine à suivre le rythme. Mais difficile de prédire lequel des deux géants allemands sortira vainqueur de cette course technologique.
+
+.N 257
+.D 15/10/2024
+.C ECONOMIE
+.T Affaire Carlos Ghosn : deux pourvois de Rachida Dati rejetés par la Cour de cassation. La Cour de cassation a écarté, les 7 et 14 octobre, deux pourvois de la ministre de la culture, notamment sur la prescription, dans le cadre du dossier judiciaire dans lequel elle est mise en examen pour " corruption passive ".
+
+.N 258
+.D 15/10/2024
+.C ECONOMIE
+.T Les petites voitures hybrides, un succès inattendu. En attendant la fin de la commercialisation des véhicules à moteur thermique, prévue en 2035, les constructeurs européens ont développé une nouvelle génération sobre de petits moteurs à hybridation légère.
+
+.N 259
+.D 15/10/2024
+.C ECONOMIE
+.T Doliprane : le gouvernement demande un bilan des aides perçues par Sanofi ces dix dernières années. Lors d'une séance de questions au gouvernement, le ministre de l'économie Antoine Armand a répondu aux inquiétudes suscitées par la possible cession d'Opella, qui commercialise le Doliprane, par Sanofi au fonds d'investissement américain CD&amp;R.
+
+.N 260
+.D 15/10/2024
+.C ECONOMIE
+.T Au Royaume-Uni, un fossé grandissant entre riches et pauvres. Le pays est l'un des plus inégaux au monde pour ce qui est de la valeur du patrimoine détenu, selon l'ONG The Fairness Foundation. Cela met en danger la mobilité sociale, la croissance et la démocratie, souligne l'organisation.
+
+.N 261
+.D 15/10/2024
+.C ECONOMIE
+.T Les retraites complémentaires du privé revalorisées de 1,6 % en novembre. le Medef regrette que sa " position responsable " n'ait pas été prise en compte. Ce " compromis " conforte l'Agirc-Arrco en tant que " régime financièrement solide et donc pérenne pour les retraités et futurs retraités ", estime de son côté la CFDT.
+
+.N 262
+.D 16/10/2024
+.C ECONOMIE
+.T Aux Etats-Unis, la construction contrariée de l'Etat-providence. " L'économie, enjeu d'une Amérique fracturée " (2/5). Traumatisés par la grande crise financière de 2008, le choc de la concurrence chinoise et la pandémie de Covid-19, les Américains aspirent de nouveau à plus de protection étatique.
+
+.N 263
+.D 16/10/2024
+.C ECONOMIE
+.T Immobilier et assurance-vie, une alliance fragilisée. Souscrire des parts de SCPI, les sociétés civiles de placement immobilier, était ces dernières années devenu un réflexe pour qui souhaitait diversifier son contrat d'assurance-vie. La crise que traverse le secteur requiert de la prudence.
+
+.N 264
+.D 16/10/2024
+.C ECONOMIE
+.T Les candidats attendent plus de rapidité et de transparence de la part des recruteurs. La durée moyenne de sélection d'un candidat s'est allongée depuis 2019. Les DRH se saisissent de nouveaux processus et outils de recrutement qui pourraient corriger cette tendance.
+
+.N 265
+.D 16/10/2024
+.C ECONOMIE
+.T Que fait-on du travail ? : " Le refus de l'hyper-fragmentation, c'est un choix d'entreprise ". Le PDG du groupe Adecco, Denis Machuel, répond aux chercheurs François-Xavier Devetter et Julie Valentin qui ont tous deux travaillé sur le temps de travail, sa durée, sa répartition, et les statuts d'emploi. Pour " travailler mieux ", ils recommandent d'encadrer le travail fragmenté.
+
+.N 266
+.D 16/10/2024
+.C ECONOMIE
+.T Un an après sa prise de contrôle par Bolloré, Fayard va publier " Ce que je cherche ", le premier livre de Jordan Bardella. Lise Boëll, la nouvelle PDG de la prestigieuse maison d'édition (Hachette Livre) fait signer désormais des auteurs d'extrême droite comme le président du RN ou Philippe de Villiers. Ce qui suscite l'ire de certains salariés et des départs en cascade.
+
+.N 267
+.D 16/10/2024
+.C ECONOMIE
+.T " Les services aux personnes âgées et aux jeunes enfants doivent être réservés au secteur public et à l'économie sociale et solidaire ". Il faut préserver les personnes âgées et les jeunes enfants de la marchandisation, estiment Benoît Hamon et Michel Pier Jézéquel, au nom de l'économie sociale et solidaire, et le sociologue Jean-Louis Laville dans une tribune au " Monde ".
+
+.N 268
+.D 16/10/2024
+.C ECONOMIE
+.T Le budget Barnier risque de diviser par deux la croissance, alerte l'OFCE. En l'état, selon l'Observatoire français des conjonctures économiques, le projet de loi de finances pèserait beaucoup plus lourdement sur l'économie que ce que prévoit le gouvernement.
+
+.N 269
+.D 16/10/2024
+.C ECONOMIE
+.T Retraites complémentaires : une revalorisation actée malgré l'opposition du Medef. L'organisation patronale, qui exerce une influence déterminante sur le pilotage du système n'a pas obtenu gain de cause. Les partenaires sociaux, réunis au sein du conseil d'administration de l'Agirc-Arrco se sont entendus sur une hausse de 1,6 %, mardi 15 octobre.
+
+.N 270
+.D 16/10/2024
+.C ECONOMIE
+.T L'exécutif dans le piège du Doliprane. L'annonce par Sanofi de son intention de céder 50 % d'Opella, qui fabrique notamment l'antidouleur, à un fonds d'investissement américain révèle l'écart dévastateur entre les promesses politiques de réindustrialisation et de souveraineté et leur réalisation.
+
+.N 271
+.D 16/10/2024
+.C ECONOMIE
+.T Le rapport Draghi, un signal jugé positif par la tech européenne mais aussi américaine. Plus d'investissements, moins de régulation. Le document rendu en septembre par l'ancien président de la BCE, Mario Draghi propose des mesures pour " libérer le potentiel d'innovation " de l'UE dans le numérique et l'intelligence artificielle.
+
+.N 272
+.D 16/10/2024
+.C ECONOMIE
+.T Si l'accablant rapport de Mario Draghi sur le décrochage économique de l'Union européenne fait consensus, ses préconisations divisent. Les jeudi 17 octobre et vendredi 18 octobre, les chefs d'Etat et de gouvernement des Vingt-Sept, qui se retrouveront dans la capitale belge, ont prévu d'avoir un premier échange autour du rapport de l'ancien président de la Banque centrale européenne.
+
+.N 273
+.D 16/10/2024
+.C ECONOMIE
+.T Char de combat : l'allemand Rheinmetall et l'italien Leonardo créent un concurrent au projet franco-allemand. Basée en Italie, la coentreprise, Leonardo Rheinmetall Military Vehicles (LRMV), fabriquera des chars d'assaut et des véhicules de combat d'infanterie.
+
+.N 274
+.D 16/10/2024
+.C ECONOMIE
+.T Pétrole en RDC : le gouvernement acte l'échec de son appel aux investisseurs étrangers. Le ministère congolais des hydrocarbures a annoncé l'annulation de l'appel d'offres lancé en 2022 sur 27 blocs pétroliers. Mais il assure qu'un nouveau projet va être préparé.
+
+.N 275
+.D 16/10/2024
+.C ECONOMIE
+.T Fraude aux eaux minérales : " On ne peut pas être sûr qu'il n'y a plus de tromperie sur le site de Perrier ". La sénatrice Antoinette Guhl déplore, dans son rapport d'information sur le contrôle des eaux minérales, le " laisser-faire " du gouvernement. Une inspection récente sur le site de production de Perrier souligne un manque de " traçabilité " et un " point critique de loyauté ", révèlent " Le Monde " et France-Info.
+
+.N 276
+.D 16/10/2024
+.C ECONOMIE
+.T Algorithme de ciblage antifraude dans les CAF : des associations saisissent le Conseil d'Etat. Ce recours, déposé mercredi 16 octobre, demande que la Caisse nationale des allocations familiales abandonne son système interne de notation des allocataires, jugé " discriminatoire ".
+
+.N 277
+.D 16/10/2024
+.C ECONOMIE
+.T Technologies propres : le constat d'un défaut de stratégie industrielle européenne. Mario Draghi consacre dans son rapport un chapitre entier à l'enjeu majeur pour l'avenir de l'UE de la production des éoliennes, batteries, panneaux solaires et autres pompes à chaleur. Et le tableau se révèle plutôt sombre.
+
+.N 278
+.D 16/10/2024
+.C ECONOMIE
+.T " La dette mondiale va passer le seuil historique des 100 000 milliards de dollars ". Le dernier rapport " Fiscal Monitor " du Fonds monétaire international le rappelle : la dette mondiale explose. Quatre facteurs plaident pour une aggravation du phénomène au cours des années à venir, détaille Philippe Escande, éditorialiste économique au " Monde ".
+
+.N 279
+.D 16/10/2024
+.C ECONOMIE
+.T La revue " Usbek &amp; Rica " change de nom pour devenir " FUTU&amp;R ". L'entreprise fondée en 2008, rachetée en 2022 par le groupe CMI France du milliardaire tchèque Daniel Kretinsky, conservera néanmoins son nom.
+
+.N 280
+.D 16/10/2024
+.C ECONOMIE
+.T Airbus va supprimer jusqu'à 2 500 postes dans sa branche défense et espace, en difficulté. Cette division du géant de l'aéronautique emploie actuellement quelque 35 000 personnes. La direction d'Airbus s'est refusée à tout commentaire dans l'immédiat.
+
+.N 281
+.D 16/10/2024
+.C ECONOMIE
+.T Malgré les succès des Bleues, le handball féminin peine à se démarquer en France. Dans un championnat à deux vitesses dominé par Metz et Brest, les acteurs de la D1 féminine peinent à trouver un modèle de développement viable, et sont fragilisés par la perspective d'une baisse des subventions publiques.
+
+.N 282
+.D 16/10/2024
+.C ECONOMIE
+.T Comment Airbnb encourage le recours aux conciergeries, tout en restant maître à bord. La plateforme lance mercredi son réseau de concierges labellisés, pour encourager les propriétaires à avoir recours à ce type de services et garder la main sur ce marché florissant.
+
+.N 283
+.D 16/10/2024
+.C ECONOMIE
+.T Le géant du luxe LVMH confronté à une diminution inédite de son activité. Face à un marché du luxe déprimé, le numéro un mondial du secteur a, pour la première fois depuis 2020, publié un chiffre d'affaires en baisse. Des mesures d'économies sont déjà à l'œuvre.
+
+.N 284
+.D 16/10/2024
+.C ECONOMIE
+.T Doliprane : deux syndicats de Sanofi appellent à une grève reconductible à partir de jeudi. La CFDT et la CGT s'opposent à la cession attendue à un fonds américain de la branche santé grand public du groupe Opella qui commercialise le Doliprane.
+
+.N 285
+.D 16/10/2024
+.C ECONOMIE
+.T Politique de la ville : une étude met en lumière l'évitement scolaire dans les collèges après un classement en " quartier prioritaire ". Les chercheuses Manon Garrouste et Miren Lafourcade, de l'université Paris-Saclay, soulignent " un effet de stigmatisation très significatif " et remettent en cause la pertinence d'aides " zonées ".
+
+.N 286
+.D 16/10/2024
+.C ECONOMIE
+.T Cession du Paris FC à la famille Arnault : un actionnaire minoritaire fait monter la pression. Le propriétaire du club parisien de football peine à obtenir l'aval du fondateur de Lycamobile, qui détient 10 % du capital.
+
+.N 287
+.D 16/10/2024
+.C ECONOMIE
+.T Nouvelle-Calédonie : le chiffrage de la crise, entre réalité et instrumentalisation. L'Institut de la statistique et des études économiques de Nouvelle-Calédonie a publié le 7 octobre les premières données officielles sur la crise qui touche l'archipel calédonien depuis le 13 mai. Le nombre des chômeurs ou l'évaluation des départs du territoire font débat.
+
+.N 288
+.D 16/10/2024
+.C ECONOMIE
+.T Airbus va supprimer jusqu'à 2 500 postes dans sa division défense et espace. Le numéro un mondial des satellites de télécommunication traverse une crise. Le nouvel entrant Starlink de la société SpaceX, avec sa constellation de petits engins spatiaux, a révolutionné le marché.
+
+.N 289
+.D 16/10/2024
+.C ECONOMIE
+.T Boeing, 35 milliards de dollars pour éviter la faillite. Accidents, grève et difficultés industrielles ont entraîné de lourdes pertes pour l'avionneur américain. Son titre a perdu 42 % depuis le 1er janvier.
+
+.N 290
+.D 17/10/2024
+.C ECONOMIE
+.T " La tech rêve d'"agents", des IA capables de planifier et d'agir ". Tous les fabricants d'intelligence artificielle travaillent sur ce nouveau type de logiciels qui seraient capables de mener des actions pour atteindre un but donné. Une promesse qui soulève des questions note, dans sa chronique, Alexandre Piquard, journaliste au " Monde ".
+
+.N 291
+.D 17/10/2024
+.C ECONOMIE
+.T Assurance-vie : trois profils d'investisseurs, trois niveaux de risque. Prudent, équilibré, dynamique : tels sont les trois profils d'épargnants désormais définis. A chaque catégorie correspond un niveau minimal d'investissements non risqués ou peu risqués, mais aussi une part plancher d'actifs non cotés en Bourse.
+
+.N 292
+.D 17/10/2024
+.C ECONOMIE
+.T Le bleu de travail au bureau, summum de gentrification vestimentaire. " Work in progress ". Le vêtement emblématique du monde ouvrier est désormais adopté par un public CSP+, diffusant un sentiment d'" authentoc ".
+
+.N 293
+.D 17/10/2024
+.C ECONOMIE
+.T L'Espagne critique l'offensive française dans le ferroviaire. Alors que Ouigo, la filiale de la SNCF, prend des parts de marché dans le pays, Madrid s'agace des entraves posées par Paris à la libéralisation ferroviaire en France.
+
+.N 294
+.D 17/10/2024
+.C ECONOMIE
+.T " Péquenaude " : poésie d'un territoire abîmé. L'écrivaine Juliette Rousseau part à la recherche des traces d'une Bretagne centrale préexistante aux transformations de l'agro-industrie, dans un livre où se mêlent des langues et des manières d'être perdues.
+
+.N 295
+.D 17/10/2024
+.C ECONOMIE
+.T " Osez le télétravail !  " : Les manageurs face aux enjeux du travail à distance. La mise en place du télétravail s'accompagne de nombreux risques pour la santé mentale et physique des salariés, souligne Jean-Claude Delgènes dans son dernier ouvrage.
+
+.N 296
+.D 17/10/2024
+.C ECONOMIE
+.T " Le chèque énergie est aujourd'hui menacé par une réforme gouvernementale mettant fin à son versement automatique ". Les ménages précaires devront désormais se déclarer sur un site Internet, ce qui entraînera un non-recours massif à cette aide pourtant indispensable, regrette Christophe Robert, délégué général de la Fondation Abbé Pierre, dans une tribune au " Monde ".
+
+.N 297
+.D 17/10/2024
+.C ECONOMIE
+.T Etats-Unis : Donald Trump et Kamala Harris à la conquête des patrons. " L'économie, enjeu d'une Amérique fracturée " (3/5). Hormis quelques personnalités, rares sont les chefs d'entreprise à soutenir ouvertement le républicain Donald Trump, dont l'irrationalité inquiète. Une défiance dont voudrait profiter la candidate démocrate.
+
+.N 298
+.D 17/10/2024
+.C ECONOMIE
+.T En RDC, pour revenir dans la course aux minerais stratégiques, les Etats-Unis négocient avec Dan Gertler. Alors que la Chine contrôle la plus grande partie de la production mondiale de terres rares, les actifs congolais de l'homme d'affaires israélien intéressent Washington. Au point de lever les sanctions qui pèsent sur lui ?
+
+.N 299
+.D 17/10/2024
+.C ECONOMIE
+.T " L'artificialisation des sols détruit les moyens d'agir sur le climat ". Les universitaires Alain Brauman et Marc-André Selosse, la sénatrice Nicole Bonnefoy et le député Richard Ramos appellent, dans une tribune au " Monde ", à soutenir l'effort de l'objectif zéro artificialisation net prévu dans la loi Climat de 2021 après les reculades de Michel Barnier.
+
+.N 300
+.D 17/10/2024
+.C ECONOMIE
+.T " ASML est un baromètre avancé de la santé de l'électronique mondiale. En ce début d'automne, l'aiguille bascule sur "mauvais temps" ". L'entreprise a publié ses résultats trimestriels, avec des prévisions décevantes pour 2025. Cette déconvenue du néerlandais, pourtant seul détenteur au monde d'une technologie révolutionnaire de gravage de puces, illustre à quel point le marché des semi-conducteurs est cyclique, analyse Philippe Escande, journaliste économique au " Monde ".
+
+.N 301
+.D 13/10/2024
+.C POLITIQUE
+.T Olivier Faure est l'invité de " Questions politiques ", suivez en direct. Le député de Seine-et-Marne et premier secrétaire du Parti socialiste est l'invité de France Inter, de France Télévisions et du " Monde " ce dimanche, de midi à 13 heures.
+
+.N 302
+.D 13/10/2024
+.C POLITIQUE
+.T En direct : le gouvernement Barnier estime qu'" une nouvelle loi "immigration" " sera nécessaire en 2025. La porte-parole du gouvernement, Maud Bregeon, a notamment évoqué la proposition du ministre de l'intérieur, Bruno Retailleau, de prolonger la durée de détention des étrangers en situation irrégulière aux " profils dangereux ".
+
+.N 303
+.D 13/10/2024
+.C POLITIQUE
+.T En direct : la porte-parole du gouvernement assure qu'il " n'y aura pas d'augmentation des taxes sur le gaz ". Cette taxe " a doublé en début d'année dernière, elle a déjà augmenté ", a argumenté Maud Bregeon, évoquant, sur BFM-TV, un " arbitrage " du premier ministre, Michel Barnier, sur cette question.
+
+.N 304
+.D 13/10/2024
+.C POLITIQUE
+.T En direct, gouvernement Barnier : Gérald Darmanin met en garde contre les hausses d'impôt. L'ancien ministre des comptes publics a reconnu être " en partie responsable " de la situation financière actuelle, mais a défendu le bilan de son passage à Bercy.
+
+.N 305
+.D 13/10/2024
+.C POLITIQUE
+.T Le gouvernement Barnier annonce une nouvelle loi immigration pour 2025, avec un durcissement de la rétention administrative. Une des pistes envisagée est d'allonger la rétention des étrangers " jugés dangereux " de 90 à 210 jours, une mesure actuellement réservée aux infractions terroristes.
+
+.N 306
+.D 14/10/2024
+.C POLITIQUE
+.T Immigration : un nouveau texte annoncé pour 2025, moins d'un an après la promulgation de la loi Darmanin. La porte-parole du gouvernement, Maud Bregeon, a confirmé dimanche 13 octobre que le projet visera notamment à porter à 210 jours la durée maximale de rétention des étrangers, en réaction à l'" affaire Philippine ", et comportera d'autres mesures " utiles pour protéger les Français ".
+
+.N 307
+.D 14/10/2024
+.C POLITIQUE
+.T En direct, gouvernement Barnier : le premier ministre se rend dans le collège où enseignait Samuel Paty. Michel Barnier sera accompagné de sa ministre de l'éducation, Anne Genetet, lors d'une visite au collège du Bois d'Aulne, dans les Yvelines, établissement toujours profondément marqué par le souvenir de ce professeur assassiné par un islamiste il y a quatre ans.
+
+.N 308
+.D 14/10/2024
+.C POLITIQUE
+.T Bruno Retailleau, l'idéologue de la place Beauvau. Le nouveau ministre de l'intérieur mène une bataille culturelle pour imposer ses idées en matière de sécurité et d'immigration. Multipliant les déclarations clivantes, ce conservateur catholique affirme une ligne très droitière. Matignon ne la renie pas et envisage même une nouvelle loi immigration en 2025.
+
+.N 309
+.D 14/10/2024
+.C POLITIQUE
+.T Finances publiques : Michel Barnier incité à mieux taxer les retraités. A l'orée du débat budgétaire, le conseil des prélèvements obligatoires formule treize propositions pour rendre plus juste la taxation des revenus, notamment en alourdissant la fiscalité sur les retraités et les riches.
+
+.N 310
+.D 14/10/2024
+.C POLITIQUE
+.T A La Réunion, cinq ans d'inéligibilité requis contre Didier Robert, jugé pour avoir fait payer ses loyers par la collectivité. L'ancien président du conseil régional est jugé pour avoir perçu, par le biais d'une délibération qu'il avait lui-même signée, une indemnité de séjour.
+
+.N 311
+.D 14/10/2024
+.C POLITIQUE
+.T Sur l'immigration, Bruno Retailleau se pose en pourfendeur d'une société multiculturelle. Le ministre de l'intérieur s'inscrit dans une tradition, à droite et à l'extrême droite, de remise en cause du droit du sol et d'imposition de critères d'assimilation aux immigrés.
+
+.N 312
+.D 14/10/2024
+.C POLITIQUE
+.T En direct, gouvernement Barnier : l'annonce d'une nouvelle loi immigration prouve que " plus rien ne peut se faire sans nous au Parlement ", affirme Jordan Bardella. Le président du Rassemblement national (RN) s'est réjoui, lundi, de l'annonce par le gouvernement d'une nouvelle loi immigration pour le début de 2025, dont son parti votera " certaines mesures ".
+
+.N 313
+.D 14/10/2024
+.C POLITIQUE
+.T Accidents du travail : lancement de la deuxième campagne de sensibilisation. Investie sur cette question bien avant d'être ministre du travail, Astrid Panosyan-Bouvet entend faire de la lutte contre ce fléau l'une des priorités de son action au gouvernement.
+
+.N 314
+.D 14/10/2024
+.C POLITIQUE
+.T En direct, gouvernement Barnier : " une nouvelle loi immigration ne semble pas prioritaire ", affirme Agnès Pannier-Runacher. Le gouvernement a annoncé dimanche une nouvelle loi sur l'immigration, dont l'examen pourrait démarrer dès " début 2025 ", ce qui réjouit Jordan Bardella (RN) dont le parti votera " certaines mesures ". Cela prouve que " plus rien ne peut se faire sans nous au Parlement ", a-t-il dit.
+
+.N 315
+.D 14/10/2024
+.C POLITIQUE
+.T Nouvelle-Calédonie : l'accord polémique avec l'Azerbaïdjan est " nul et non avenu ", affirme la nouvelle présidente du Congrès. Le 18 avril, une élue indépendantiste avait signé, au nom du président du Congrès, un " mémorandum " scellant une coopération entre l'assemblée délibérante néo-calédonienne et son équivalent azerbaïdjanais. Une initiative qui avait suscité l'indignation et l'incompréhension dans l'archipel.
+
+.N 316
+.D 14/10/2024
+.C POLITIQUE
+.T Doliprane : Emmanuel Macron assure que le gouvernement peut " garantir " la protection de l'approvisionnement de la France. Sanofi a récemment déclaré vouloir céder sa filiale de santé grand public Opella, qui commercialise le médicament, au fonds américain CD &amp; R, suscitant l'inquiétude d'une partie de la classe politique française.
+
+.N 317
+.D 14/10/2024
+.C POLITIQUE
+.T Procès des assistants parlementaires du FN : au premier jour de son interrogatoire, Marine Le Pen n'a pas eu le " sentiment d'avoir commis la moindre irrégularité ". Marine Le Pen éludant les questions directes, le tribunal n'aura pas vraiment réussi à évoquer le sujet du jour : le contrat la liant à Catherine Griset, en tant que son assistante parlementaire, alors que l'accusation considère qu'elle était surtout sa cheffe de cabinet au parti.
+
+.N 318
+.D 14/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : enseignants, grande distribution, aérien, justice… le projet de loi de finances continue de faire réagir. Près de 1 900 amendements ont été déposés lundi avant l'examen du projet de loi de finances en commission à l'Assemblée nationale. " La France doit continuer à réindustrialiser, innover et inciter à la création d'emplois. C'est ça la priorité du pays ", soutient Emmanuel Macron.
+
+.N 319
+.D 14/10/2024
+.C POLITIQUE
+.T Joe Sacco, auteur de bande dessinée : " Sur Gaza, je n'attends rien de Kamala Harris ". " Dans ma bulle ". Coutumier des enquêtes fleuves à travers le monde, le père du " comics journalism " américain livre un pamphlet de 32 pages contre le président américain, Joe Biden, qu'il accuse de " faciliter le génocide " des Palestiniens.
+
+.N 320
+.D 15/10/2024
+.C POLITIQUE
+.T Marine Le Pen au procès des assistants parlementaires du FN : " Vous cherchez la petite bête ". La présidente du Rassemblement national, poursuivie pour " détournement de fonds publics " est entendue par le tribunal correctionnel de Paris, depuis lundi 14 et jusqu'à mercredi 16 octobre.
+
+.N 321
+.D 15/10/2024
+.C POLITIQUE
+.T Immigration, assurance-chômage, budget : Michel Barnier confronté à la cacophonie de son " socle commun " à l'Assemblée… et au gouvernement. Le premier ministre doit réunir les responsables de sa majorité relative, mardi matin 15 octobre, à Matignon, alors que les divergences éclatent au grand jour au sein même des partis qui la composent.
+
+.N 322
+.D 15/10/2024
+.C POLITIQUE
+.T " Faute d'être maîtrisée budgétairement, l'aventure macronienne a fini par devenir de l'aventurisme ". En mettant un terme à la politique de l'offre, le projet de loi de finances pour 2025 enterre le macronisme comme alternative aux politiques économiques menées par la droite et la gauche, observe dans sa chronique Françoise Fressoz, éditorialiste au " Monde ".
+
+.N 323
+.D 15/10/2024
+.C POLITIQUE
+.T Yannick Jadot : " Le gouvernement Barnier s'apprête à saper les politiques écologiques sur l'autel de l'austérité budgétaire ". Le premier ministre se trompe lorsqu'il met sur le même plan la " dette financière " et la " dette écologique ", car il sous-estime les impacts du réchauffement climatique, estime le sénateur écologiste de Paris, dans une tribune au " Monde ".
+
+.N 324
+.D 15/10/2024
+.C POLITIQUE
+.T En direct, gouvernement Barnier : " Mon souhait est que la France ne soit pas plus attractive en matière d'immigration ", déclare Bruno Retailleau. Le ministre de l'intérieur est revenu, mardi, sur l'annonce d'une " nouvelle loi "immigration" " d'ici 2025. Il a précisé que l'allongement du délai de rétention pour les étrangers en situation irrégulière ne concernerait que " les individus les plus dangereux ".
+
+.N 325
+.D 15/10/2024
+.C POLITIQUE
+.T " Pour un travaillisme écologiste, réunissons la France des RER et des TER ". Alors que le gouvernement de Michel Barnier coupe les aides publiques à la transition, le chercheur Timothée Duverger et l'essayiste Erwan Ruty invitent, dans une tribune au " Monde ", à intégrer les classes populaires dans la planification écologique.
+
+.N 326
+.D 15/10/2024
+.C POLITIQUE
+.T Budget 2025 : la droite cherche à infléchir la ligne avec le dépôt de nombreux amendements. Si la Droite républicaine de Laurent Wauquiez affiche toujours son soutien au premier ministre, le projet de loi de finances prévoit, selon les députés Les Républicains, trop d'impôts et pas assez d'économies.
+
+.N 327
+.D 15/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : l'Elysée, l'Assemblée nationale et le Sénat renoncent à une hausse de leurs dotations, pour " donner l'exemple ". L'Elysée s'est exprimée dans un communiqué, mardi, après la polémique suscitée par l'augmentation de son budget de 2,5 % prévue dans le projet de loi de finances.
+
+.N 328
+.D 15/10/2024
+.C POLITIQUE
+.T Affaire Carlos Ghosn : deux pourvois de Rachida Dati rejetés par la Cour de cassation. La Cour de cassation a écarté, les 7 et 14 octobre, deux pourvois de la ministre de la culture, notamment sur la prescription, dans le cadre du dossier judiciaire dans lequel elle est mise en examen pour " corruption passive ".
+
+.N 329
+.D 15/10/2024
+.C POLITIQUE
+.T Budget 2025 : l'Elysée et le Parlement renoncent à l'augmentation de leur dotation. Alors que le gouvernement a présenté un budget de rigueur, l'Elysée a annoncé vouloir " donner l'exemple " en ne demandant pas de hausse de sa dotation pour 2025. Les deux chambres du Parlement ont également proposé le même effort budgétaire.
+
+.N 330
+.D 15/10/2024
+.C POLITIQUE
+.T Elections dans les très petites entreprises : la justice autorise la participation d'un syndicat " gilets jaunes ". Le tribunal judiciaire de Paris a estimé, lundi 14 octobre, que la candidature de cette organisation était recevable, ce que contestaient les six principales organisations de salariés.
+
+.N 331
+.D 15/10/2024
+.C POLITIQUE
+.T " Attal-Darmanin : l'attitude des deux enfants terribles du macronisme illustre les angoisses existentielles du bloc central ". Omniprésents dans les médias depuis qu'ils ont quitté le gouvernement, soucieux de se distinguer, mais surtout de ne pas voir diluer leur identité politique, l'ancien premier ministre et l'ex-ministre de l'intérieur tentent d'installer un rapport de force face à Michel Barnier explique, dans sa chronique, Solenn de Royer, journaliste au " Monde ".
+
+.N 332
+.D 15/10/2024
+.C POLITIQUE
+.T Charles de Courson : " Dans le budget 2025, les dépenses sont encore trop importantes ". Le projet de loi de finances présenté par le gouvernement entraîne un risque pour la croissance, souligne le rapporteur général du budget à l'Assemblée nationale, dans un entretien au " Monde ".
+
+.N 333
+.D 15/10/2024
+.C POLITIQUE
+.T En direct : à l'Assemblée, Antoine Armand évoque la possible entrée de l'Etat au conseil d'administration d'Opella, qui produit le Doliprane. Le ministre de l'économie a été interrogé à plusieurs reprises par les députés mardi au cours des questions au gouvernement sur la cession potentielle d'Opella par Sanofi à un fonds d'investissement américain, CD &amp; R.
+
+.N 334
+.D 15/10/2024
+.C POLITIQUE
+.T Benyamin Nétanyahou ne doit pas " s'affranchir des décisions de l'ONU ", déclare Emmanuel Macron en conseil des ministres. Vendredi, le chef de l'Etat avait jugé " tout à fait inacceptable " que les casques bleus de la Finul soient " visés délibérément par les forces armées israéliennes ", avant d'exprimer, le lendemain, " sa grande inquiétude quant à l'intensification des frappes israéliennes au Liban et leurs conséquences dramatiques pour les populations civiles ".
+
+.N 335
+.D 15/10/2024
+.C POLITIQUE
+.T En direct : Bruno Le Maire dit se tenir à la " totale disposition " de la future commission d'enquête parlementaire sur le dérapage budgétaire. La conférence des présidents de l'Assemblée s'est accordée mardi sur le principe de la transformation de la commission des finances en commission d'enquête sur le dérapage des finances publiques.
+
+.N 336
+.D 15/10/2024
+.C POLITIQUE
+.T Fonction publique territoriale : les élus locaux défendent les 100 000 postes créés depuis 2010. Bien qu'il n'y ait eu aucun transfert de compétences de l'Etat aux collectivités locales depuis 2010, leurs effectifs n'ont cessé de croître, comme l'a pointé un récent rapport de la Cour des comptes, qui préconise de les réduire de plus de 5 %. Pour les élus locaux, cet accroissement correspond à la prise en charge de nouvelles responsabilités.
+
+.N 337
+.D 15/10/2024
+.C POLITIQUE
+.T Budget : la piste des privatisations relancée à droite. Pour désendetter l'Etat, Eric Ciotti et Gérald Darmanin préconisent la cession de certaines participations publiques. Au même moment, le gouvernement envisage au contraire d'entrer au capital du fabricant du Doliprane.
+
+.N 338
+.D 15/10/2024
+.C POLITIQUE
+.T Budget : le groupe d'Eric Ciotti affirme son identité libérale. A rebours de son allié, le Rassemblement national, Eric Ciotti mise sur des baisses de taxes et s'en remet, pour compenser, aux vieilles recettes de la droite : cibler l'immigration, les opérateurs de l'Etat et les intermittents du spectacle.
+
+.N 339
+.D 16/10/2024
+.C POLITIQUE
+.T Budget 2025 : à l'Assemblée, le gouvernement Barnier en mauvaise posture pour défendre sa copie. La première partie du projet de loi de finances 2025 sur les recettes, qui cristallise les mécontentements autour des hausses d'impôts, est examinée à partir de mercredi 16 octobre par la commission des finances.
+
+.N 340
+.D 16/10/2024
+.C POLITIQUE
+.T Un an après sa prise de contrôle par Bolloré, Fayard va publier " Ce que je cherche ", le premier livre de Jordan Bardella. Lise Boëll, la nouvelle PDG de la prestigieuse maison d'édition (Hachette Livre) fait signer désormais des auteurs d'extrême droite comme le président du RN ou Philippe de Villiers. Ce qui suscite l'ire de certains salariés et des départs en cascade.
+
+.N 341
+.D 16/10/2024
+.C POLITIQUE
+.T En direct, gouvernement Barnier : le budget 2025 examiné à partir de cet après-midi, suivez l'actualité politique de la journée. Alors que la première partie du projet de loi de finances, qui fait polémique en raison des hausses d'impôts prévues, doit être examinée à partir de mercredi en commission des finances, le gouvernement s'est finalement dit favorable au gel des crédits de l'aide médicale de l'Etat.
+
+.N 342
+.D 16/10/2024
+.C POLITIQUE
+.T La page Eric Ciotti tournée, LR remet à plus tard le choix d'un nouveau président. Le bureau politique des Républicains s'est réuni mardi et a validé l'idée d'une direction collégiale, dans l'attente d'une nouvelle élection en 2025. A défaut de reprendre dans l'immédiat la présidence, Laurent Wauquiez va animer une " mission d'exploration " pour refonder un parti moribond.
+
+.N 343
+.D 16/10/2024
+.C POLITIQUE
+.T " Les services aux personnes âgées et aux jeunes enfants doivent être réservés au secteur public et à l'économie sociale et solidaire ". Il faut préserver les personnes âgées et les jeunes enfants de la marchandisation, estiment Benoît Hamon et Michel Pier Jézéquel, au nom de l'économie sociale et solidaire, et le sociologue Jean-Louis Laville dans une tribune au " Monde ".
+
+.N 344
+.D 16/10/2024
+.C POLITIQUE
+.T Le budget Barnier risque de diviser par deux la croissance, alerte l'OFCE. En l'état, selon l'Observatoire français des conjonctures économiques, le projet de loi de finances pèserait beaucoup plus lourdement sur l'économie que ce que prévoit le gouvernement.
+
+.N 345
+.D 16/10/2024
+.C POLITIQUE
+.T La mutinerie de la prison de Mayotte devient une affaire politique à La Réunion. Afin de sécuriser l'établissement de Majicavo et de " faire baisser la pression ", 27 détenus ont été transférés dans des établissements réunionnais également touchés par la surpopulation. Plusieurs élus ont réagi vivement, dont la présidente de région, Huguette Bello, sur fond d'inquiétude de voir les Mahorais quitter leur île pour La Réunion.
+
+.N 346
+.D 16/10/2024
+.C POLITIQUE
+.T Emmanuel Macron, spectateur impuissant du duel entre Gabriel Attal et Elisabeth Borne. Les tentatives du chef de l'Etat pour éviter un affrontement au grand jour entre les deux prétendants à la tête de Renaissance sont restées vaines. Outre la perte d'influence du président de la République, cette rivalité révèle un parti en déliquescence.
+
+.N 347
+.D 16/10/2024
+.C POLITIQUE
+.T Retraites complémentaires : une revalorisation actée malgré l'opposition du Medef. L'organisation patronale, qui exerce une influence déterminante sur le pilotage du système n'a pas obtenu gain de cause. Les partenaires sociaux, réunis au sein du conseil d'administration de l'Agirc-Arrco se sont entendus sur une hausse de 1,6 %, mardi 15 octobre.
+
+.N 348
+.D 16/10/2024
+.C POLITIQUE
+.T L'exécutif dans le piège du Doliprane. L'annonce par Sanofi de son intention de céder 50 % d'Opella, qui fabrique notamment l'antidouleur, à un fonds d'investissement américain révèle l'écart dévastateur entre les promesses politiques de réindustrialisation et de souveraineté et leur réalisation.
+
+.N 349
+.D 16/10/2024
+.C POLITIQUE
+.T Les tensions entre Emmanuel Macron et Benyamin Nétanyahou montent d'un cran après les propos du président français sur la création d'Israël par l'ONU. Le chef de l'Etat aurait déclaré, mardi, lors du conseil des ministres, que le premier ministre israélien ne devait " pas oublier que son pays a été créé par une décision de l'ONU ".
+
+.N 350
+.D 16/10/2024
+.C POLITIQUE
+.T " La dette mondiale va passer le seuil historique des 100 000 milliards de dollars ". Le dernier rapport " Fiscal Monitor " du Fonds monétaire international le rappelle : la dette mondiale explose. Quatre facteurs plaident pour une aggravation du phénomène au cours des années à venir, détaille Philippe Escande, éditorialiste économique au " Monde ".
+
+.N 351
+.D 16/10/2024
+.C POLITIQUE
+.T En direct, gouvernement Barnier : le RN " ne votera pas le budget du gouvernement ", déclare Jordan Bardella. " Précisément le vote ou non d'un budget détermine quels sont les partis politiques qui sont d'opposition ou dans la majorité ", a détaillé le président du Rassemblement national, mercredi, à quelques heures du début de l'examen du budget 2025 en commission des finances.
+
+.N 352
+.D 16/10/2024
+.C POLITIQUE
+.T Doliprane : deux syndicats de Sanofi appellent à une grève reconductible à partir de jeudi. La CFDT et la CGT s'opposent à la cession attendue à un fonds américain de la branche santé grand public du groupe Opella qui commercialise le Doliprane.
+
+.N 353
+.D 16/10/2024
+.C POLITIQUE
+.T En direct : la commission des finances de l'Assemblée demande officiellement de pouvoir enquêter sur le dérapage du déficit public. Les députés de la commission ont demandé ces pouvoirs pour enquêter sur " les causes " de " la variation " et des " écarts des prévisions fiscales et budgétaires " constatées sur les années 2023 et 2024. Le gouvernement va disposer d'un délai pour s'y opposer.
+
+.N 354
+.D 16/10/2024
+.C POLITIQUE
+.T Nouvelle " nuit agitée " en Martinique, en proie à la colère contre la vie chère. Une septième table ronde entre l'Etat et les acteurs locaux, initialement prévue mardi, s'est ouverte mercredi pour discuter du coût de la vie sur l'île.
+
+.N 355
+.D 16/10/2024
+.C POLITIQUE
+.T Budget : le RN suggère la suppression de nombreux opérateurs et agences de l'Etat. Au nom de la simplification et de la rigueur budgétaire, le parti d'extrême droite envisage la suppression de près de 80 opérateurs et agences indépendantes, et l'internalisation de certaines de leurs missions.
+
+.N 356
+.D 16/10/2024
+.C POLITIQUE
+.T Nouvelle-Calédonie : le chiffrage de la crise, entre réalité et instrumentalisation. L'Institut de la statistique et des études économiques de Nouvelle-Calédonie a publié le 7 octobre les premières données officielles sur la crise qui touche l'archipel calédonien depuis le 13 mai. Le nombre des chômeurs ou l'évaluation des départs du territoire font débat.
+
+.N 357
+.D 16/10/2024
+.C POLITIQUE
+.T A Nouméa, le ministre des outre-mer propose une nouvelle méthode. En visite dans l'archipel, François-Noël Buffet a insisté sur l'importance du dialogue et souhaite se donner du temps " pour construire du solide ", l'exécutif préférant repousser au maximum le sujet du corps électoral.
+
+.N 358
+.D 16/10/2024
+.C POLITIQUE
+.T Des députés macronistes déposent une proposition de loi pour réformer le mode de scrutin à Paris, Lyon et Marseille. Les élus, qui affirment vouloir corriger " une anomalie démocratique ", demandent l'appui du gouvernement Barnier, indispensable pour que la loi soit adoptée d'ici avril 2025 et puisse entrer en vigueur avant les prochaines élections municipales en 2026.
+
+.N 359
+.D 16/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : les députés ont entamé l'examen du budget en commission des finances ; la taxe sur les hauts revenus étendue. Avant de débuter l'examen des amendements du projet de loi de finances, les députés de la commission des finances ont demandé officiellement de pouvoir enquêter sur le dérapage du déficit public.
+
+.N 360
+.D 17/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : la commission des finances vote pour étendre la taxe sur les hauts revenus et taxer les superdividendes des entreprises. Les députés ont également adopté deux amendements pour lutter contre les pratiques dite " CumCum ", consistant à échapper à l'imposition sur les dividendes dont doivent s'acquitter les détenteurs d'actions d'entreprises françaises résidant à l'étranger.
+
+.N 361
+.D 17/10/2024
+.C POLITIQUE
+.T La lutte d'influence entre Michel Barnier et Emmanuel Macron sur les affaires européennes. Pour le premier ministre, la politique communautaire de la France est un domaine partagé entre l'Elysée et Matignon. Pour le président, c'est un domaine qui lui est réservé.
+
+.N 362
+.D 17/10/2024
+.C POLITIQUE
+.T Au procès des assistants parlementaires du FN, Marine Le Pen savoure les erreurs du Parlement européen. La députée a pu prouver que l'administration avait fait un faux contrat pour régulariser une erreur, ce que les hauts fonctionnaires de Bruxelles ont décrit comme " un jeu d'écritures ".
+
+.N 363
+.D 17/10/2024
+.C POLITIQUE
+.T " Y'en a marre, parlons d'autre chose que des finances publiques ! " : au cœur du dérapage budgétaire du second quinquennat d'Emmanuel Macron. Une commission d'enquête sur la " dérive des finances publiques " a été lancée, mercredi 16 octobre, à l'Assemblée nationale. Elle devra retracer l'enchaînement d'erreurs et de décisions politiques qui ont mené à un déficit de 6,1 % attendu pour 2024.
+
+.N 364
+.D 17/10/2024
+.C POLITIQUE
+.T Budget 2025 : le RN propose des coupes drastiques, au détriment de l'environnement, des collectivités et des missions de l'Etat. Le " contre-budget " du RN prévoit 13,7 milliards d'économies de plus que Michel Barnier, dont certaines sont très hypothétiques. Ses suggestions frappent la spéculation et les administrations, en préservant les ménages et les entreprises.
+
+.N 365
+.D 17/10/2024
+.C POLITIQUE
+.T Sébastien Cavalier : " Le Pass culture doit être en capacité de s'adapter ". Le président de la société responsable du dispositif en détaille les pistes de réforme.
+
+.N 366
+.D 17/10/2024
+.C POLITIQUE
+.T Logement : le gouvernement veut donner plus de pouvoir aux maires dans l'attribution de HLM. Michel Barnier souhaite reprendre un projet, prévu par le gouvernement Attal, qui donnerait aux maires les quasi-pleins pouvoirs dans l'attribution de logements sociaux. Les acteurs s'inquiètent d'un retour à des pratiques de corruption et de discrimination.
+
+.N 367
+.D 17/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : la commission des finances va reprendre l'examen du projet de loi de finances. Les députés ont jusqu'à samedi compris pour étudier les quelque 1 600 amendements déposés et recevables portant sur le volet recettes du texte.
+
+.N 368
+.D 17/10/2024
+.C POLITIQUE
+.T La commission des finances demande officiellement de pouvoir enquêter sur le dérapage budgétaire. Les membres de cette commission, dont les travaux devraient démarrer " fin novembre " ou " début décembre ", pourront interroger sous serment des personnalités actuellement ou anciennement chargées des finances publiques.
+
+.N 369
+.D 17/10/2024
+.C POLITIQUE
+.T Assurance-chômage et emploi des seniors : les partenaires sociaux veulent des négociations rapides. Les discussions entre les syndicats et le patronat sur ces deux dossiers démarrent le 22 octobre et doivent s'achever à la mi-novembre. Elles permettront d'apprécier la capacité des deux camps à forger des compromis, après l'échec, en avril, des tractations sur un " nouveau pacte de la vie au travail ".
+
+.N 370
+.D 17/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : les députés de la commission des finances votent pour renforcer l'" exit tax " afin de lutter contre l'exil fiscal des contribuables. L'objectif de cet amendement, approuvé par les députés Les Républicains, le Nouveau Front populaire et le Rassemblement national, est de " lutter contre les personnes qui transfèrent leur domicile hors de France simplement et uniquement pour éviter l'imposition ", a expliqué l'élue LR Véronique Louwagie.
+
+.N 371
+.D 17/10/2024
+.C POLITIQUE
+.T Derrière le rejet de la suppression de 4 000 postes d'enseignant, les limites d'un système scolaire en crise. L'intersyndicale des personnels de l'éducation nationale a émis une " alerte sociale " à l'encontre de la mesure prévue dans le projet de loi de finances 2025. L'argument démographique invoqué par le ministère est jugé insuffisant face aux difficultés croissantes du métier d'enseignant.
+
+.N 372
+.D 17/10/2024
+.C POLITIQUE
+.T Livre de Jordan Bardella : SUD-Rail s'oppose à une campagne d'affichage en gare. La fédération syndicale demande à la direction de la SNCF de refuser le plan de communication pour cet ouvrage qui promeut un parti d'extrême droite et promet de recouvrir toutes les affiches.
+
+.N 373
+.D 17/10/2024
+.C POLITIQUE
+.T En Guyane, les élus de Saint-Laurent-du-Maroni mettent fin à leur mouvement de protestation après des engagements de Michel Barnier. Les élus se relayaient depuis une semaine sur un sit-in installé devant la sous-préfecture, pour réclamer des mesures contre la délinquance. Le premier ministre a notamment promis l'envoi d'un escadron de gendarmerie mobile sous quinze jours.
+
+.N 374
+.D 17/10/2024
+.C POLITIQUE
+.T Procès des assistants parlementaires du RN : Alexandre Varaut, la face réactionnaire du parti. L'avocat qui conseille Marine Le Pen sur le dossier des assistants parlementaires, dont le procès s'est ouvert le 30 septembre, est aussi député européen depuis juin. Opposé à l'IVG thérapeutique ou encore favorable à la messe en latin, le profil ultraconservateur de cet ancien proche de Philippe de Villiers tranche avec l'image policée que veut afficher le RN.
+
+.N 375
+.D 17/10/2024
+.C POLITIQUE
+.T Budget : Edouard Philippe fait la leçon à Catherine Vautrin sur l'effort financier demandé aux collectivités. Alors que le gouvernement demande aux élus locaux un effort de 5 milliards d'euros en 2025, le maire du Havre a mis en garde la ministre du partenariat avec les territoires contre le " terrible piège " que représenterait la chute de l'investissement public local.
+
+.N 376
+.D 17/10/2024
+.C POLITIQUE
+.T Les députés veulent taxer davantage les ultrariches. En commission, les parlementaires ont élargi la contribution sur les hauts revenus proposée par le gouvernement, augmenté la taxe sur les revenus du capital, et renforcé les mesures contre l'exil fiscal des contribuables.
+
+.N 377
+.D 17/10/2024
+.C POLITIQUE
+.T Explosion de la rue de Trévise : un procès requis contre la Mairie de Paris pour homicides et blessures involontaires. L'explosion, survenue en janvier 2019 dans le 9ᵉ arrondissement de Paris, avait fait quatre morts et plus de deux cents blessés.
+
+.N 378
+.D 17/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : le gouvernement ne prévoit pas de nouvelle hausse des prix du tabac. " Il n'y a pas, dans les projets de lois financières présentés par le gouvernement en cette fin d'année, de nouveau rehaussement de la trajectoire de hausse du tabac. L'indexation sur l'inflation sera quant à elle contenue ", a déclaré le ministre du budget Laurent Saint-Martin, devant le congrès annuel de la Confédération des buralistes.
+
+.N 379
+.D 17/10/2024
+.C POLITIQUE
+.T Emmanuel Macron rend hommage aux Algériens tués à Paris le 17 octobre 1961. Il y a soixante-trois ans, alors que des Algériens manifestaient pour l'indépendance de leur pays, la police française avait violemment réprimé ce rassemblement pacifique à Paris. Le président français a reconnu des " faits inexcusables pour la République ".
+
+.N 380
+.D 17/10/2024
+.C POLITIQUE
+.T Budget 2025 : le RN se convertit à la " flat tax " après l'avoir dénoncée. Jordan Bardella a fustigé, jeudi, le relèvement en commission des finances du taux du prélèvement forfaitaire unique (PFU), que ses propres députés avaient pourtant soutenu la veille. La " quasi-suppression " de ce dispositif est au programme du Rassemblement national depuis 2022.
+
+.N 381
+.D 17/10/2024
+.C POLITIQUE
+.T Budget 2025 : les députés suppriment la hausse de la taxe sur l'électricité, en commission des finances. Si la gauche et le Rassemblement national ont voté pour la suppression du projet de taxe en commission des finances, cette mesure sera cependant examinée dans l'hémicycle, où les députés repartiront de la copie du gouvernement.
+
+.N 382
+.D 17/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : en commission, les députés suppriment la hausse de la taxe sur l'électricité. Les députés de la commission des finances ont supprimé un article du projet de loi de finances 2025 qui prévoyait de donner la possibilité au gouvernement de taxer l'électricité à un niveau supérieur à la période d'avant crise énergétique.
+
+.N 383
+.D 17/10/2024
+.C POLITIQUE
+.T Emmanuel Macron dénonce un " manque de professionnalisme " de ses ministres après des propos rapportés sur Benyamin Nétanyahou qui ont créé la polémique. " J'ai été stupéfait de lire tant de commentaires (…) devant des propos que j'aurais tenus, sans se poser la question de savoir ce qu'ils disaient et ce que j'aurais exactement dit " a protesté le chef de l'Etat, jeudi, évoquant des paroles " tronquées et transformées ".
+
+.N 384
+.D 18/10/2024
+.C POLITIQUE
+.T Martinique : l'accord trouvé pour baisser le prix de l'alimentaire n'éteint pas la mobilisation. L'Etat et le secteur privé ont acté une baisse " de 20 % en moyenne " de plus de 6 000 produits. Mais le collectif à l'origine de la mobilisation contre la vie chère, qui dure depuis le 1er septembre, a refusé de signer et annonce la poursuite de ses actions.
+
+.N 385
+.D 18/10/2024
+.C POLITIQUE
+.T Au PS, Olivier Faure de plus en plus contesté par ses opposants internes. Les critiques se multiplient contre le premier secrétaire, notamment accusé d'avoir placé le parti dans la roue de LFI. Alors que François Hollande a déjà appelé à le renverser lors d'un futur congrès, M. Faure assume de vouloir jouer l'union de la gauche lors des futurs scrutins.
+
+.N 386
+.D 18/10/2024
+.C POLITIQUE
+.T La retraite progressive va-t-elle décoller ?. Ce dispositif, qui ne concernait que 26 824 salariés en 2023, pourrait connaître un regain de vigueur et servir de compensation au recul de l'âge légal à 64 ans.
+
+.N 387
+.D 18/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : suppression de la hausse de la taxe sur l'électricité, extension de la taxation des ménages les plus aisés… L'examen se poursuit vendredi. Les députés de la commission des finances ont supprimé un article du projet de loi de finances 2025 qui prévoyait de donner la possibilité au gouvernement de taxer l'électricité plus que pendant la période qui a précédé la crise énergétique. Les mesures votées en commission devront de nouveau être soumises au vote dans l'hémicycle, où les députés repartiront de la version initiale du texte.
+
+.N 388
+.D 18/10/2024
+.C POLITIQUE
+.T Au Parlement, l'équation se complique pour le gouvernement en commission mixte paritaire. Avec la nouvelle répartition des sept sièges de député, l'exécutif ne sera pas toujours majoritaire dans cette instance chargée de trouver des compromis sur des textes. De quoi compliquer un peu plus la tâche de l'équipe Barnier, qui devra analyser méthodiquement le calendrier.
+
+.N 389
+.D 18/10/2024
+.C POLITIQUE
+.T En Nouvelle-Calédonie, le ministre des outre-mer promet la " poursuite des efforts " financiers de l'Etat, sans convaincre. L'Etat financera " à 100 % la reconstruction des établissements scolaires et à 70 % celle des autres bâtiments publics ", a assuré François-Noël Buffet. Depuis le début de la crise, qui a fait en cinq mois treize morts et des milliards d'euros de dégâts, 400 millions d'euros ont été injectés dans l'économie de l'archipel.
+
+.N 390
+.D 18/10/2024
+.C POLITIQUE
+.T Lucie Castets tentée d'être candidate en Isère pour devenir députée. Après avoir échoué à devenir première ministre, l'énarque de 37 ans réfléchit à se présenter à une législative partielle à venir et ainsi s'implanter durablement en politique. Mais plusieurs obstacles demeurent, notamment la pression exercée par LFI pour qu'elle siège dans son groupe, en cas de victoire.
+
+.N 391
+.D 18/10/2024
+.C POLITIQUE
+.T En direct, budget 2025 : les macronistes déplorent un éventuel dépôt d'une motion de rejet contre le texte par les " insoumis ". En plein examen du projet de loi de finances en commission des finances ce vendredi, les députés du camp présidentiel se sont élevés contre un éventuel dépôt d'une motion de rejet par La France insoumise. Celle-ci serait alors examinée lundi soir, en amont du début des discussions sur le texte en séance publique.
+
+.N 392
+.D 18/10/2024
+.C POLITIQUE
+.T Les " dircabs " du gouvernement Barnier : d'anciens conseillers de ministres UMP, des macronistes historiques et des profils juniors. Parmi les principaux collaborateurs de l'exécutif formé en octobre, une bonne partie ont déjà travaillé dans des cabinets ministériels du premier mandat d'Emmanuel Macron, voire sous la présidence de Nicolas Sarkozy.
+
+.N 393
+.D 18/10/2024
+.C POLITIQUE
+.T " Au cours des siècles, quand la France s'est trouvée dans l'impasse, ont été organisés des Etats généraux ". Un collectif de 150 personnalités, parmi lesquels l'ingénieur Pierre Calame ou la députée écologiste Dominique Voynet, lance, dans une tribune au " Monde ", un appel citoyen pour l'organisation d'Etats généraux de la société française.
+
+.N 394
+.D 18/10/2024
+.C POLITIQUE
+.T En direct : Agnès Pannier-Runacher menace de démissionner, Marc Fesneau appelle à la " responsabilité ". Au lendemain des pluies exceptionnelles qui ont touché une partie du territoire, la ministre de la transition écologique, Agnès Pannier-Runacher, a estimé qu'il " faut un budget qui soit à la hauteur de la situation et ce n'est pas le cas aujourd'hui ".
+
+.N 395
+.D 18/10/2024
+.C POLITIQUE
+.T Budget 2025 : Agnès Pannier-Runacher menace à son tour de démissionner pour protester contre les choix du gouvernement. Au lendemain des pluies exceptionnelles qui ont touché une partie du territoire, la ministre de la transition écologique a appelé à avoir un budget " à la hauteur de la situation ", ce qui n'est " pas le cas aujourd'hui ", selon elle.
+
+.N 396
+.D 18/10/2024
+.C POLITIQUE
+.T Narcobanditisme : 23 personnes liées à la DZ Mafia mises en examen. La DZ Mafia est l'organisation qui domine actuellement le marché marseillais de la drogue. La plupart des 49 narchomicides − un record − de 2023 à Marseille ont été provoqués par la guerre de territoires entre le clan Yoda et la DZ Mafia.
+
+.N 397
+.D 18/10/2024
+.C POLITIQUE
+.T " L'addiction aux paris sportifs agit comme un véritable "impôt sur la fortune du pauvre" ". Pour financer l'élan sportif, né du succès des Jeux olympiques et de l'Euro de football, Fatiha Keloua Hachi et Stéphane Troussel, élus socialistes de Seine-Saint-Denis, proposent, dans une tribune au " Monde ", que l'Etat régule mieux les paris sportifs et les annonceurs autorisés.
+
+.N 398
+.D 18/10/2024
+.C POLITIQUE
+.T Quelque 230 000 fonctionnaires augmentés de 6 centimes par mois, en raison de la revalorisation du smic. Le minimum de traitement des fonctionnaires, fixé à 1 801,74 euros brut, ne peut être inférieur au smic dont le gouvernement a annoncé la revalorisation à partir du 1ᵉʳ novembre.
+
+.N 399
+.D 18/10/2024
+.C POLITIQUE
+.T Tensions grandissantes entre le ministère de la transition écologique et Matignon sur la question du budget. Agnès Pannier-Runacher, la ministre de la transition écologique, a laissé entendre vendredi qu'elle pourrait quitter son poste si elle n'avait pas " un budget qui soit à la hauteur de la situation ".
+
+.N 400
+.D 18/10/2024
+.C POLITIQUE
+.T En direct : la niche fiscale Pinel ne sera pas remplacée, selon la ministre du logement. La ministre du logement et de la rénovation urbaine, Valérie Létard, a annoncé vendredi qu'il " n'y aurait pas de dispositif remplaçant le " Pinel " ", une niche fiscale d'aide à l'investissement locatif, vouée à disparaître à la fin de l'année.
+
+.N 401
+.D 13/10/2024
+.C SPORT
+.T " Je décide d'associer ma passion pour la mer à la maladie de Crohn, ce truc que je traîne comme un boulet depuis des années ". " Premières fois " : récits de moments charnières autour du passage à l'âge adulte. Cette semaine, Pierre-Louis Attwell, 28 ans, raconte comment la maladie a fait de lui un navigateur et un compétiteur.
+
+.N 402
+.D 13/10/2024
+.C SPORT
+.T L'équipe de France féminine de rugby termine le WXV par une défaite face à la Nouvelle-Zélande. Les Bleues ont été sèchement battues par les Black Ferns (39-14), samedi, à Vancouver, au Canada. Elles finissent cinquièmes – sur six – d'une poule dominée par les tenantes du titre anglaises.
+
+.N 403
+.D 13/10/2024
+.C SPORT
+.T Au marathon de Nova Post Kiev, un dispositif alternatif pour remplacer le traditionnel " pistolet " de départ. Alors que des dizaines de milliers de personnes vont s'élancer sur la distance mythique, dimanche à Chicago, un nouveau signal " sans coup de feu " a été testé en Ukraine, fin septembre.
+
+.N 404
+.D 13/10/2024
+.C SPORT
+.T Tennis : Jannik Sinner bat Novak Djokovic en finale du Masters 1000 de Shanghaï. L'Italien, toujours empêtré dans une affaire de dopage, s'est imposé face au Serbe en deux sets (7-6 [7/4], 6-3), dimanche. Il est assuré de terminer l'année à la place de numéro 1 mondial.
+
+.N 405
+.D 13/10/2024
+.C SPORT
+.T Au marathon de Chicago, la Kényane Ruth Chepngetich établit un nouveau record du monde. La coureuse de 30 ans a abaissé la précédente référence chez les dames de presque deux minutes, dimanche. Un exploit qui rappelle celui de son défunt compatriote Kelvin Kiptum, un an plus tôt lors de la même course.
+
+.N 406
+.D 13/10/2024
+.C SPORT
+.T L'attachement de Kylian Mbappé à l'équipe de France de football " n'est plus à démontrer ", selon ses coéquipiers en sélection. Invité à réagir sur une photo de l'attaquant à Stockholm le soir du match Israël-France, le capitaine par intérim des Bleus, Aurélien Tchouaméni a, entre autres, regretté que le moindre événement concernant le joueur prenne des " proportions démesurées ".
+
+.N 407
+.D 13/10/2024
+.C SPORT
+.T Amandine Henry prend sa retraite internationale, après quinze années au service de l'équipe de France de football. La milieu de terrain et ex-capitaine des Bleues, 35 ans, avait participé aux Jeux olympiques cet été. Elle compte 109 sélections et 14 buts.
+
+.N 408
+.D 14/10/2024
+.C SPORT
+.T Football : la FIFA veut réexaminer les règles de transferts. L'instance, qui chapeaute le football mondial, a annoncé, lundi, vouloir " examiner les changements pertinents à apporter " après que la justice européenne a estimé que certaines dispositions encadrant les transferts de joueurs étaient " contraires " au droit de l'Union européenne.
+
+.N 409
+.D 14/10/2024
+.C SPORT
+.T Football : le ras-le-bol des joueurs face aux cadences infernales trouve un prolongement sur le terrain judiciaire. Une plainte va être déposée devant la Commission européenne contre la FIFA, lundi. Elle s'inscrit dans le mouvement de contestation des joueurs contre les calendriers trop chargés.
+
+.N 410
+.D 14/10/2024
+.C SPORT
+.T Cyclisme : " Je veux gagner le Tour de France ", clame Lenny Martinez. Le coureur français, révélé sur le Tour d'Espagne en 2023, va rejoindre pour les trois prochaines saisons la formation Bahrain-Victorious. Il dit vouloir " mettre toutes les chances " de son côté pour battre Tadej Pogacar, triple vainqueur du Tour de France.
+
+.N 411
+.D 14/10/2024
+.C SPORT
+.T Mort de Davide Rebellin : un chauffeur routier condamné à quatre ans de prison pour avoir provoqué la mort de l'ancien coureur cycliste. L'homme de 64 ans avait percuté sur un rond-point Davide Rebellin, qui faisait une sortie d'entraînement à vélo le 30 novembre 2022, en Vénétie.
+
+.N 412
+.D 14/10/2024
+.C SPORT
+.T " On m'a donné quelques garanties sur la pérennité de l'Agence nationale du sport ", assure son président. Avant la présentation du projet de budget pour 2025, le premier ministre a évoqué la possibilité de " rapprocher les agences du sport et le ministère des sports ". David Lazarus, président par intérim de l'Agence nationale du sport, dit " rester très vigilant, notamment sur le budget ".
+
+.N 413
+.D 14/10/2024
+.C SPORT
+.T En direct, Belgique - France : suivez la quatrième journée de la Ligue des nations. Sans leur capitaine Kylian Mbappé, les Bleus, vainqueurs d'Israël, jeudi (4-1), se déplacent à Bruxelles pour affronter les Diables rouges, lundi.
+
+.N 414
+.D 14/10/2024
+.C SPORT
+.T France-Belgique : le résumé de la troisième victoire consécutive des Bleus. Déjà vainqueurs d'Israël jeudi (4-1), les hommes de Didier Deschamps se sont une nouvelle fois imposés en Belgique lundi (2-1), dans le cadre de la quatrième journée de la Ligue des nations, grâce à un doublé de Randal Kolo Muani.
+
+.N 415
+.D 15/10/2024
+.C SPORT
+.T Belgique-France : malheureux avec le PSG, Randal Kolo Muani continue de sourire avec les Bleus grâce à son doublé. Les deux buts de Randal Kolo Muani ont permis à des Bleus poussifs de battre la Belgique (2-1), lundi. Remplaçant au Paris Saint-Germain, l'attaquant confirme sa capacité à hausser son niveau de jeu en équipe de France.
+
+.N 416
+.D 15/10/2024
+.C SPORT
+.T Une enquête pour viol ouverte en Suède après le passage de Kylian Mbappé et de son entourage à Stockholm ; le joueur dénonce une " fake news ". Le joueur du Real Madrid a réagi, lundi sur X, établissant un lien entre l'article d'un journal suédois et l'audience de mardi dans l'affaire des 55 millions d'euros de salaires impayés et autres primes que lui réclame son ancienne star.
+
+.N 417
+.D 15/10/2024
+.C SPORT
+.T Projet de budget 2025 : des amendements proposent de compenser la baisse des crédits de l'Agence nationale du sport. 
+
+.N 418
+.D 15/10/2024
+.C SPORT
+.T Kylian Mbappé cité dans une enquête pour viol après une soirée à Stockholm, selon les médias suédois. Le parquet a confirmé, mardi, l'enregistrement d'une plainte pour viol par la police, sans citer de noms.
+
+.N 419
+.D 15/10/2024
+.C SPORT
+.T Football : le match France-Israël aura lieu au Stade de France et sera ouvert au public. Le préfet de police de Paris a confirmé la tenue de la rencontre de Ligue des nations dans des " conditions normales ", alors que la question d'un possible huis clos était posée en raison du contexte de guerre au Proche-Orient.
+
+.N 420
+.D 15/10/2024
+.C SPORT
+.T Le Comité national olympique et sportif français appelle à " préserver le budget sport ". L'instance considère que la baisse des crédits dévolus aux politiques publiques sportives, prévue dans le projet de budget pour 2025, " fait peser une menace forte sur la capacité des clubs d'accueillir de nouveaux licenciés ".
+
+.N 421
+.D 16/10/2024
+.C SPORT
+.T L'avocate de Kylian Mbappé annonce le dépôt d'une plainte pour " dénonciation calomnieuse " après l'ouverture d'une enquête pour viol en Suède. Le parquet suédois a annoncé mardi qu'une plainte pour viol a été reçue par la police et une enquête est en cours sur des faits survenus à Stockholm après le passage de Kylian Mbappé et son entourage dans la capitale suédoise
+
+.N 422
+.D 16/10/2024
+.C SPORT
+.T Agression sexuelle : un an de prison ferme requis à l'encontre de Wissam Ben Yedder. L'ancien joueur de l'équipe de France de football et de Monaco était jugé à Nice, mardi 15 octobre, pour des faits qui ont eu lieu le 7 septembre.
+
+.N 423
+.D 16/10/2024
+.C SPORT
+.T Malgré les succès des Bleues, le handball féminin peine à se démarquer en France. Dans un championnat à deux vitesses dominé par Metz et Brest, les acteurs de la D1 féminine peinent à trouver un modèle de développement viable, et sont fragilisés par la perspective d'une baisse des subventions publiques.
+
+.N 424
+.D 16/10/2024
+.C SPORT
+.T PSG : une juge enquête sur un possible fichage ethnique dans les années 2010, après un premier classement sans suite en 2022. L'enquête pénale avait été classée il y a deux ans pour " infraction insuffisamment caractérisée ", mais la Ligue des droits de l'homme a déposé une nouvelle plainte avec constitution de partie civile début 2023. " Le PSG n'a commis aucune discrimination ", a réagi le club.
+
+.N 425
+.D 16/10/2024
+.C SPORT
+.T L'enquête sur la disparition en mer en Afrique du Sud d'un jeune rugbyman français est désormais instruite pour homicide involontaire. L'information judiciaire, ouverte à Agen, sur la disparition début août de Medhi Narjissi, membre de l'équipe de France des moins de 18 ans, était jusqu'alors menée pour disparition inquiétante.
+
+.N 426
+.D 16/10/2024
+.C SPORT
+.T Financement du sport : le recours accru aux taxes sur les paris sportifs sera au cœur des débats à l'Assemblée. Les députés de la commission des finances débutent, mercredi, l'examen du projet de budget pour 2025. Celui-ci prévoit un recul des crédits pour le sport, venant contredire le discours sur l'" héritage " des Jeux olympiques et paralympiques.
+
+.N 427
+.D 16/10/2024
+.C SPORT
+.T Cession du Paris FC à la famille Arnault : un actionnaire minoritaire fait monter la pression. Le propriétaire du club parisien de football peine à obtenir l'aval du fondateur de Lycamobile, qui détient 10 % du capital.
+
+.N 428
+.D 16/10/2024
+.C SPORT
+.T " Ça va piquer ! " : les athlètes de Paris 2024 reprennent l'entraînement après leurs vacances. Le sprinteur Harold Achi-Yao a participé à ses premiers Jeux olympiques à Paris. Il était également guide lors des Jeux paralympiques. Désormais interne à l'Insep, il se projette déjà vers les Jeux de Los Angeles en 2028.
+
+.N 429
+.D 16/10/2024
+.C SPORT
+.T Jeux d'hiver 2030 : un nouveau délégué interministériel aux Jeux olympiques et paralympiques a été nommé. Pierre-Antoine Molina succède à Michel Cadot. Il devra notamment piloter la création du comité d'organisation des Jeux d'hiver 2030 dans les Alpes et de la société de livraison des ouvrages olympiques.
+
+.N 430
+.D 17/10/2024
+.C SPORT
+.T Football : un dispositif de sécurité " extrêmement renforcé " pour le match France-Israël au Stade de France. Le préfet de police de Paris, Laurent Nuñez, a déclaré, mercredi, qu'un dispositif de sécurité " de très haut niveau " serait mis en place le 14 novembre afin d'éviter des troubles à l'extérieur de l'enceinte, mais aussi à l'intérieur.
+
+.N 431
+.D 17/10/2024
+.C SPORT
+.T En RDC, le président Tshisekedi veut faire du football un outil de soft power. Candidat à l'organisation de la Coupe d'Afrique des nations (CAN) en 2029, le pays a annoncé la signature d'un contrat de partenariat d'une durée de trois ans avec le club italien du Milan AC.
+
+.N 432
+.D 17/10/2024
+.C SPORT
+.T Football : cinq arrivées, un retour et des cadres confirmées pour les prochains matchs des Bleues. Le nouveau sélectionneur de l'équipe de France féminine de football, Laurent Bonadei a dévoilé, jeudi, sa liste de joueuses pour affronter la Jamaïque, le 25 octobre, et la Suisse, le 29 octobre.
+
+.N 433
+.D 17/10/2024
+.C SPORT
+.T La famille Arnault en " négociations exclusives " pour racheter le Paris FC. Une part minoritaire du club de football, actuel leader de la Ligue 2, doit aussi être acquise par le groupe autrichien Red Bull. Ce rachat pourrait à terme entraîner la présence d'un second club parisien parmi l'élite du foot français.
+
+.N 434
+.D 17/10/2024
+.C SPORT
+.T Tennis de table : Simon Gauzy et Prithika Pavade assurent une première médaille française aux championnats d'Europe. Le duo français s'est qualifié, jeudi, pour les demi-finales du double mixte à Linz, en Autriche. Les frères Lebrun sont également entrés en lice dans le tournoi, où ils visent le podium en simple comme en double.
+
+.N 435
+.D 17/10/2024
+.C SPORT
+.T Football : le Paris FC bientôt dans l'escarcelle de la famille Arnault. La financière Agache a annoncé, jeudi, être entrée en négociations exclusives avec Pierre Ferracci pour prendre le contrôle du club de foot parisien, actuellement leader de Ligue 2.
+
+.N 436
+.D 18/10/2024
+.C SPORT
+.T La Fédération française de rugby attend son nouveau patron à l'issue d'une campagne mouvementée. Les dirigeants de clubs sont invités à élire le président de la FFR vendredi et samedi. Les deux candidats, Florian Grill et Didier Codorniou, ont passé plusieurs semaines à échanger des piques.
+
+.N 437
+.D 18/10/2024
+.C SPORT
+.T Financement du sport : les recettes de l'Etat amputées de 141 millions d'euros en 2025 du fait d'exemptions fiscales. Le taux réduit de TVA à 5,5 % appliqué à la billetterie des manifestations sportives représentera à lui seul 130 millions d'euros de moindres rentrées fiscales en 2025, après 123 millions cette année.
+
+.N 438
+.D 18/10/2024
+.C SPORT
+.T " L'addiction aux paris sportifs agit comme un véritable "impôt sur la fortune du pauvre" ". Pour financer l'élan sportif, né du succès des Jeux olympiques et de l'Euro de football, Fatiha Keloua Hachi et Stéphane Troussel, élus socialistes de Seine-Saint-Denis, proposent, dans une tribune au " Monde ", que l'Etat régule mieux les paris sportifs et les annonceurs autorisés.
+
+.N 439
+.D 18/10/2024
+.C SPORT
+.T Mathieu Blanchard remporte la Diagonale des fous pour sa première participation à l'épreuve mythique de l'ultra-trail. Le Français s'est imposé vendredi dans le Grand Raid de la Réunion, l'un des monuments de la discipline, après 175 km de course, et plus de 10 000 mètres de dénivelé positif.
+
+.N 440
+.D 19/10/2024
+.C SPORT
+.T Ligue 1 : Monaco concède le nul face à Lille et voit sa première place au classement menacée par Paris. A dix contre onze durant plus de trente minutes, Monaco, dominant durant toute la rencontre, a tenté de forcer la marque jusqu'au bout, sans y parvenir.
+
+.N 441
+.D 19/10/2024
+.C SPORT
+.T L'interdiction du port du voile passe mal dans certains clubs sportifs. En rugby, alors que le foulard est interdit pour les joueuses en France depuis mi-juillet, des équipes veulent continuer à faire valoir " la liberté de la pratique sportive ". La même interdiction, prise fin 2022 par la fédération de basket, avait suscité des tensions et conduit à des sanctions.
+
+.N 442
+.D 19/10/2024
+.C SPORT
+.T A Barcelone, la Coupe de l'America, succès, " excuse " pour rénover les ports, ou arnaque ?. L'historique compétition de voile, qui pourrait s'achever dès samedi par un nouveau sacre de Team New Zealand, provoque les débats dans la capitale catalane.
+
+.N 443
+.D 19/10/2024
+.C SPORT
+.T Pour financer le sport, les députés actent un recours accru au produit des taxes sur les paris sportifs. La commission des finances a adopté un amendement, qui accroît de 116 millions d'euros l'enveloppe prélevée sur les taxes sur les paris sportifs en ligne et destinée à l'Agence nationale du sport.
+
+.N 444
+.D 19/10/2024
+.C SPORT
+.T Florian Grill confortablement réélu à la tête de la Fédération française de rugby, veut " repartir sur une dynamique positive ". Opposé à Didier Codorniou, le président sortant a été plébiscité, samedi par les clubs de rugby français. Elu jusqu'en 2028, il devra redresser les comptes de la FFR et l'image du rugby français, malmené par les affaires.
+
+.N 445
+.D 19/10/2024
+.C SPORT
+.T Kylian Mbappé retrouve le terrain en Liga, " pas affecté du tout " par l'affaire de Stockholm, selon son entraîneur. L'attaquant français du Real Madrid, dont le nom a été cité par la presse suédoise dans une affaire de viol, devrait démarrer la rencontre de championnat contre le Celta Vigo, samedi.
+
+.N 446
+.D 19/10/2024
+.C SPORT
+.T Malgré une frayeur à la nage et un titre retardé, Cassandre Beaugrand sacrée championne du monde de triathlon, après son triomphe lors des JO de Paris 2024. La championne olympique des JO 2024 est devenue, samedi, la première Française à remporter les championnats du monde. Elle aurait pu tout perdre après une erreur de trajectoire dès l'épreuve de natation, et une réclamation des Britanniques.
+
+.N 447
+.D 20/10/2024
+.C SPORT
+.T Ligue 1 : le PSG maîtrise Strasbourg et reprend la tête du classement. Grâce à Bradley Barcola étincelant, le Paris Saint-Germain s'est imposé 4-2, samedi soir au Parc des Princes, face aux Alsaciens, lors de la 8e journée. Grâce à une meilleure différence de buts, les Parisiens devancent l'AS Monaco, tenu en échec par Lille, vendredi.
+
+.N 448
+.D 20/10/2024
+.C SPORT
+.T Chants homophobes au Parc des Princes : la commission de discipline de la Ligue de football professionnel saisie. Les chants ont été scandés par des supporteurs du club de la capitale, samedi, lors du match de Ligue 1 entre le PSG et le RC Strasbourg. La LFP a annoncé la saisine de sa commission de discipline, jugeant " inacceptables " ces " nouveaux chants discriminatoires ".
+
+.N 449
+.D 20/10/2024
+.C SPORT
+.T Formule 1 : retour du suspense dans une fin de saison indécise. La domination de Max Verstappen, triple champion du monde en titre, est mise à mal par les deux pilotes McLaren, Lando Norris et Oscar Piastri, avant le Grand Prix des Etats-Unis, dimanche.
+
+.N 450
+.D 20/10/2024
+.C SPORT
+.T Léon Marchand s'offre trois victoires et une pluie de records pour son retour en compétition, en Chine. Le nageur toulousain s'est imposé, dimanche, sur 400 m 4 nages à l'épreuve de Coupe du monde de Shanghaï en petit bassin. La conclusion d'une reprise réussie pour le quadruple champion olympique.
+
+.N 451
+.D 20/10/2024
+.C SPORT
+.T Alexis et Félix Lebrun, intouchables, sacrés champions d'Europe de tennis de table en double. Un peu plus de deux mois après avoir brillé aux Jeux olympiques de Paris 2024, la fratrie fer de lance du tennis de table français s'est imposée, dimanche en finale. Et l'aîné Alexis peut ajouter un titre individuel dans la soirée.
+
+.N 452
+.D 20/10/2024
+.C SPORT
+.T " On a énormément régressé " : les désillusions des Bleus aux Mondiaux de cyclisme sur piste. Après son élimination en quart de finale du keirin, dimanche, Mathilde Gros a
+appelé à " mettre les égos de côté " dans le sprint français qui quitte les championnats du monde sans médaille pour la première fois depuis 1990.
+
+.N 453
+.D 20/10/2024
+.C SPORT
+.T Lyon se rapproche du podium d'une Ligue 1 où les positions commencent à se figer. Quatre matchs de Ligue 1 étaient au programme dimanche, en attendant la rencontre entre Montpellier et l'Olympique de Marseille dans la soirée. Les Lyonnais se sont notamment imposés au Havre (4-0).
+
+.N 454
+.D 21/10/2024
+.C SPORT
+.T Formule 1 : victoire de Leclerc et doublé Ferrari aux Etats-Unis, Verstappen assure le podium. Parti 4e, le Monégasque a pris la tête dès le premier virage pour aller s'imposer devant son coéquipier, Carlos Sainz. Le leader du championnat, Max Verstappen, finit 3e et accroît légèrement son avance au général sur son poursuivant Lando Norris, finalement 4e après une pénalité.
+
+.N 455
+.D 21/10/2024
+.C SPORT
+.T " C'est en voulant le rendre toujours plus spectaculaire que l'on a rendu le football ennuyeux ". Pour lutter contre une possible " grande démission " des amateurs de football, il faut d'abord ne pas se tromper sur les causes de celle-ci, écrit le journaliste Jérôme Latta dans sa chronique.
+
+.N 456
+.D 21/10/2024
+.C SPORT
+.T L'ex-ministre des sports Amélie Oudéa-Castéra jugée les 3 et 4 décembre pour diffamation envers Noël Le Graët. L'avocat de l'ancien président de la Fédération française de football accuse Mme Oudéa-Castéra d'avoir " menti " au sujet du rapport d'audit qui a entraîné sa démission.
+
+.N 457
+.D 22/10/2024
+.C SPORT
+.T " Je n'ai plus confiance en mon poignet " : les ultimes coups de raquette de Dominic Thiem, parmi les rares joueurs à avoir tutoyé le " Big Four " du tennis. L'Autrichien dispute à Vienne, à partir de mardi, le dernier tournoi d'une carrière rythmée par un titre du Grand Chelem et des duels avec Rafael Nadal ou Novak Djokovic, mais également des blessures à répétition.
+
+.N 458
+.D 22/10/2024
+.C SPORT
+.T Victor Wembanyama, tête de proue d'une NBA qui a plus que jamais l'accent français. La saison 2024-2025 de la ligue nord-américaine de basket commence, mardi, avec un contingent tricolore renforcé, derrière la star des Spurs, notamment par Zaccharie Risacher et Alexandre Sarr, numéros un et deux de la dernière draft.
+
+.N 459
+.D 22/10/2024
+.C SPORT
+.T Jean-Louis Gasset, spécialiste des clubs en perdition, sort de sa retraite pour entraîner un Montpellier à la dérive. L'ex-coach de l'Olympique de Marseille débarque à la tête d'une équipe dernière du championnat et qui vient de limoger son entraîneur Michel Der Zakarian.
+
+.N 460
+.D 22/10/2024
+.C SPORT
+.T Paris 2024 : combien ont vraiment coûté les Jeux olympiques et paralympiques à l'Etat et aux collectivités. Les documents accompagnant le projet de loi de finances pour 2025 permettent de dresser un état des lieux des dépenses publiques liées aux JO. Celles-ci se chiffrent au moins à 2,8 milliards d'euros. Mais, à ce stade, toutes ne sont pas recensées.
+
+.N 461
+.D 22/10/2024
+.C SPORT
+.T La NBA reprend : derrière les Celtics de Boston, une meute de poursuivants. La saison 2024-2025 de la ligue nord-américaine de basket commence mardi. L'équipe du Massachusetts vise un deuxième sacre consécutif, mais d'autres franchises se sont renforcées.
+
+.N 462
+.D 22/10/2024
+.C SPORT
+.T En direct, PSG-PSV Eindhoven : suivez la troisième journée de la Ligue des champions. Bradley Barcola et ses partenaires du Paris Saint-Germain reçoivent les Néerlandais à domicile, pour un match au Parc des Princes, mardi.
+
+.N 463
+.D 22/10/2024
+.C SPORT
+.T 100 millions d'euros pour la cérémonie d'ouverture des Jeux. 
+
+.N 464
+.D 22/10/2024
+.C SPORT
+.T Ligue des champions : l'AS Monaco domine l'Etoile rouge de Belgrade et prolonge son invincibilité. Toujours invaincus depuis le début de saison, les Monégasques ont sèchement battu le club serbe (5-1), mardi au stade Louis-II, lors de la troisième journée de Ligue des champions. Ils occupent provisoirement la première place de la poule unique.
+
+.N 465
+.D 22/10/2024
+.C SPORT
+.T PSG-PSV Eindhoven : le résumé du nouvel accroc des Parisiens en Ligue des champions. Les partenaires de Bradley Barcola, en manque de réussite, ont concédé le match nul à domicile mardi (1-1), face au club néerlandais.
+
+.N 466
+.D 23/10/2024
+.C SPORT
+.T PSG-PSV Eindhoven : encore plombé par son inefficacité offensive, Paris concède un match nul décevant. Le Paris Saint-Germain ne compte que quatre points en Ligue des champions après son match nul, mardi, contre le PSV Eindhoven (1-1). Surtout, il peine à afficher, lors des matchs européens, le même niveau offensif qu'en championnat.
+
+.N 467
+.D 23/10/2024
+.C SPORT
+.T Ligue 1 : la grande désillusion économique du foot français. Le fiasco de la vente des droits télé du championnat de France pour la période 2024-2029 a été le point d'orgue de la crise que connaît l'écosystème du football professionnel tricolore. Retour sur une mauvaise passe.
+
+.N 468
+.D 23/10/2024
+.C SPORT
+.T Au FC Nantes, durement touché par la crise, " on n'a pas d'autre choix que de se réinventer ". Comme de nombreux autres clubs de Ligue 1, le FC Nantes subit de plein fouet la baisse des droits audiovisuels et essaie de se montrer inventif pour capter de nouveaux revenus.
+
+.N 469
+.D 23/10/2024
+.C SPORT
+.T Paris 2024 : les habitants de Seine-Saint-Denis espèrent que l'effet " JO " ne sera pas éphémère. De nombreux Séquano-Dionysiens reconnaissent que leurs craintes antérieures aux Jeux olympiques et paralympiques étaient infondées. Ils s'avouent même un peu tristes que la fête soit terminée.
+
+.N 470
+.D 23/10/2024
+.C SPORT
+.T Le marathon judiciaire d'Elena Congost pour obtenir la médaille " injustement enlevée " aux Jeux paralympiques. La marathonienne espagnole avait été disqualifiée lors du dernier jour de Paris 2024 pour avoir brièvement lâché le lien la reliant à son guide, perclus de crampes, pour l'aider. Elle entend désormais " faire valoir ses droits devant les tribunaux ".
+
+.N 471
+.D 23/10/2024
+.C SPORT
+.T Rugby : Antoine Dupont de retour et un XV de France renouvelé pour effacer la triste tournée d'été. Le sélectionneur de l'équipe de France, Fabien Galthié, a annoncé mercredi une liste de 42 joueurs pour affronter le Japon, le 9 novembre. Après son absence pour disputer les Jeux olympiques, la star du rugby français effectue son retour.
+
+.N 472
+.D 23/10/2024
+.C SPORT
+.T Martin Fourcade postule à la présidence du Comité d'organisation des Jeux d'hiver 2030. Le quintuple champion olympique de biathlon a annoncé, mercredi, vouloir diriger le futur Comité d'organisation des Jeux d'hiver 2030, alors que les acteurs du projet doivent se réunir jeudi pour décider de la future gouvernance.
+
+.N 473
+.D 23/10/2024
+.C SPORT
+.T En direct, Atlético de Madrid-Lille : suivez le match de la troisième journée de la Ligue des champions. Après leur exploit face au Real Madrid (1-0), les Lillois se déplacent mercredi sur la pelouse de l'Atlético de Madrid, lors de la troisième journée de Ligue des champions.
+
+.N 474
+.D 23/10/2024
+.C SPORT
+.T Brest-Bayer Leverkusen : toujours invaincus, les Bretons accrochent le Bayer et se rapprochent d'une qualification. Grâce à son match nul acquis face au Bayer Leverkusen (1-1), mercredi, le Stade Brestois compte sept points en trois matchs. Les Bretons ne cachent plus leur objectif en Ligue des champions : se qualifier pour la phase à élimination directe.
+
+.N 475
+.D 23/10/2024
+.C SPORT
+.T Atlético de Madrid-Lille : les Dogues se tirent d'un mauvais pas et s'offrent un nouveau succès de prestige en Ligue des champions. Les Lillois ont su renverser une rencontre bien mal entamée sur la pelouse de l'Atlético de Madrid (3-1), mercredi, lors de la troisième journée de la Ligue des champions. Une deuxième victoire européenne de rang, après celle obtenue face au Real Madrid.
+
+.N 476
+.D 24/10/2024
+.C SPORT
+.T Les chants homophobes dans le football, un mauvais refrain. Alors que des chants anti-gays ont été entonnés par les supporteurs parisiens lors du match PSG-Strasbourg, et qu'une plainte contre X a été déposée, le ministre de l'intérieur réunit, jeudi, les instances du football.
+
+.N 477
+.D 24/10/2024
+.C SPORT
+.T " Je n'arrive pas avec le même charisme qu'Hervé Renard " : Laurent Bonadei, le sélectionneur méconnu qui murmure à l'oreille des Bleues du football. A 54 ans, l'ancien adjoint, qui a entraîné des jeunes pendant seize ans, effectue ses débuts en tant que numéro 1 avec l'équipe de France féminine, vendredi, contre la Jamaïque, à Sochaux (Doubs).
+
+.N 478
+.D 24/10/2024
+.C SPORT
+.T Le gouvernement voulait exonérer d'impôt les médaillés olympiques et paralympiques, les députés ont refusé. Un amendement au projet de loi de finances pour 2025 proposait de défiscaliser totalement les primes versées par l'Etat aux athlètes français médaillés. Il avait l'appui du ministre du budget et des comptes publics.
+
+.N 479
+.D 24/10/2024
+.C SPORT
+.T Cyberharcèlement envers Thomas Jolly : sept personnes interpellées et convoquées devant la justice en mars. Dans une plainte déposée le 31 juillet, le directeur artistique de la cérémonie d'ouverture des Jeux olympiques dénonçait " être la cible sur les réseaux sociaux de messages de menaces et d'injures critiquant [son] orientation sexuelle et [ses] origines israéliennes supposées à tort ".
+
+.N 480
+.D 24/10/2024
+.C SPORT
+.T Chants homophobes dans les stades : le ministre des sports prône l'arrêt des matchs, le ministre de l'intérieur juge que " ce n'est pas la bonne solution ". Gil Avérous souhaite également " activer " la billetterie nominative pour l'OL, l'OM et le PSG, avant de l'étendre aux autres clubs de Ligue 1 et Ligue 2.
+
+.N 481
+.D 25/10/2024
+.C SPORT
+.T Le padel, nouvelle piste du sport-santé. " 10 000 pas et plus ". Ce petit frère du tennis et du squash, de plus en plus populaire, semble bénéfique pour la santé. Mais il est à l'origine de blessures, que les joueurs doivent apprendre à prévenir.
+
+.N 482
+.D 25/10/2024
+.C SPORT
+.T Budget 2025 : le ministre des sports se dit " favorable au relèvement de la taxe sur les paris sportifs " pour financer le sport. Dans un entretien à l'Equipe, vendredi, Gil Aévrous dit vouloir relancer en janvier les discussions afin de construire une " loi héritage " des Jeux olympiques et paralympiques d'ici à " l'été ou la rentrée 2025 ".
+
+.N 483
+.D 25/10/2024
+.C SPORT
+.T Rugby : Fabien Galthié pose un nouveau " cadre de vie " pour les Bleus, après " les faits inacceptables " de la tournée de cet été. Le sélectionneur du XV de France a expliqué, vendredi dans un entretien à l'Equipe, que de nouvelles règles allaient être mises en place lors des rassemblements, notamment au sujet de l'alcool.
+
+.N 484
+.D 25/10/2024
+.C SPORT
+.T La baisse du montant des droits télévisuels du football pourrait menacer le financement du sport en France. Le produit de la " taxe Buffet ", assise sur les droits télévisuels du football, s'est érodé ces dernières années. Or elle finance l'Agence nationale du sport, qui met en œuvre les dispositifs en faveur de la pratique sportive.
+
+.N 485
+.D 25/10/2024
+.C SPORT
+.T Kylian Mbappé et le PSG : la LFP ordonne le paiement de 55 millions d'euros par le club, qui fait appel. Le PSG refuse de payer les 55 millions d'euros réclamés par Kylian Mbappé, malgré l'ordre de la Ligue de football professionnel, et attend une décision de justice pour résoudre le litige.
+
+.N 486
+.D 26/10/2024
+.C SPORT
+.T Le ski mondial compose bon gré mal gré avec les enjeux climatiques. La saison 2024-2025 commence samedi 26 octobre à Sölden, en Autriche, sur le glacier du Rettenbach, alors que la Fédération internationale de ski et de snowboard affiche l'ambition de diminuer son impact environnemental.
+
+.N 487
+.D 26/10/2024
+.C SPORT
+.T Le Sénat invite à un " recentrage " et à une hausse du montant du Pass'Sport. L'aide de 50 euros à la prise d'une licence sportive reste sous-utilisée. Un rapport sénatorial suggère de cibler le dispositif sur les ménages les plus modestes et d'améliorer le taux de subvention.
+
+.N 488
+.D 26/10/2024
+.C SPORT
+.T Léon Marchand réussit un nouveau triplé en quatre nages en Coupe du monde de natation, record de France en prime. Le Français s'est imposé, samedi dans le 400 m quatre nages à Incheon, en Corée du Sud, deuxième étape de la Coupe du monde en petit bassin.
+
+.N 489
+.D 26/10/2024
+.C SPORT
+.T Ski : à Sölden, Federica Brignone remporte le premier slalom géant de la saison. L'Italienne de 34 ans, deuxième du classement de la spécialité la saison passée, a signé, samedi, le 28ᵉ succès de sa carrière.
+
+.N 490
+.D 26/10/2024
+.C SPORT
+.T Ski : Cyprien Sarrazin s'élance sur la périlleuse piste de la confirmation. Vainqueur surprise de quatre courses en 2023-2024, le Français de 30 ans aborde la nouvelle saison avec un nouveau statut, et la pression qui l'accompagne. Il sera en lice dimanche à Sölden (Autriche) lors du slalom géant.
+
+.N 491
+.D 26/10/2024
+.C SPORT
+.T Pour son premier Clasico, Kylian Mbappé et le Real Madrid sombrent face au FC Barcelone. Les Blaugrana ont largement dominé les Madrilènes (0-4), au stade Santiago-Bernabéu, samedi 26 octobre, dans le cadre de la 11ᵉ journée de la Liga.
+
+.N 492
+.D 27/10/2024
+.C SPORT
+.T Ski alpin : le retour de la star Marcel Hirscher, entre prestige et sentiment d'injustice. L'octuple vainqueur de la Coupe du monde sera, dimanche, au départ du slalom géant de Sölden (Autriche), après cinq ans d'absence. Il bénéficiera d'un aménagement des règles lui permettant de s'élancer après les 30 premiers dossards.
+
+.N 493
+.D 27/10/2024
+.C SPORT
+.T Jean-Marc Rochette, auteur de BD : " A 20 ans, j'ai vu la mort en face ". " Je ne serais pas arrivé là si… " Chaque semaine, " Le Monde " interroge une personnalité sur un moment décisif de son existence. L'artiste se confie sur son terrible accident en montagne qui a changé sa vie.
+
+.N 494
+.D 27/10/2024
+.C SPORT
+.T La blessure de Shohei Ohtani, superstar japonaise du base-ball, ne freine pas les Dodgers. Le sort du génie du base-ball est incertain pour la suite des World Series. Mais ce coup dur n'a pas empêché l'équipe de Los Angeles de remporter son deuxième match face aux Yankees de New York.
+
+.N 495
+.D 27/10/2024
+.C SPORT
+.T " J'ai envie que les gens puissent se demander : "Tiens, si je dois me rendre en Amérique du Sud, pourquoi ne pas y aller en bateau ?" ". " Premières fois " : récits de moments charnières autour du passage à l'âge adulte. Cette semaine, Manon, étudiante parisienne de 22 ans, raconte sa découverte du monde de la voile alors qu'elle se prépare à traverser l'Atlantique.
+
+.N 496
+.D 27/10/2024
+.C SPORT
+.T L'Ethiopien Yomif Kejelcha bat le record du monde du semi-marathon. Le coureur de 27 ans a réalisé un temps de 57 min 30 s, dimanche à Valence, en Espagne, améliorant de 1 s le précédent record, détenu par l'Ougandais Jacob Kiplimo.
+
+.N 497
+.D 27/10/2024
+.C SPORT
+.T Ski alpin : triplé norvégien pour la première course de la saison. Alexander Steen Olsen s'est imposé, dimanche, sur le slalom géant de Sölden (Autriche), devant Henrik Kristoffersen et Atle Lie McGrath. Pour son retour après cinq ans d'arrêt, le désormais Néerlandais Marcel Hirscher a fini à la 23e place.
+
+.N 498
+.D 27/10/2024
+.C SPORT
+.T La préparation sur mesure d'Adrien Rabiot, nouveau joueur de l'OM qui affronte le PSG, son ancienne " maison ". Arrivé à l'Olympique de Marseille mi-septembre, le milieu de terrain a été titulaire pour la première fois le 20 octobre contre Montpellier. Il devrait à nouveau figurer dans le onze de départ marseillais face au Paris Saint-Germain dimanche soir.
+
+.N 499
+.D 27/10/2024
+.C SPORT
+.T Handisport : les députés veulent rendre " plus accessibles " les prothèses. Un amendement abaissant le taux de TVA de 20 % à 5,5 % sur les appareillages non remboursés par la Sécurité sociale a été adopté, samedi,  dans le cadre de l'examen du projet de loi de finances pour 2025.
+
+.N 500
+.D 27/10/2024
+.C SPORT
+.T Tennis : Giovanni Mpetshi Perricard remporte son premier tournoi ATP 500. Le Français, 50ᵉ joueur mondial, a dominé l'Américain Ben Shelton en deux sets (6-4, 7-6), à Bâle (Suisse), dimanche 27 octobre.
+

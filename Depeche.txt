@@ -1,0 +1,90 @@
+.N 1
+.D Thu, 23 Jan 2025 06:00:00 +0100
+.C  ECONOMIE
+.T Le tournant historique de Donald Trump à la Maison Blanche : « révolution du bon sens » ou réaction conservatrice ?
+
+.N 2
+.D Thu, 23 Jan 2025 05:11:49 +0100
+.C  CULTURE
+.T PFAS : l’eau potable en France est massivement contaminée par les « polluants éternels », notamment à Paris
+
+.N 3
+.D Wed, 22 Jan 2025 22:47:54 +0100
+.C  CULTURE
+.T Un nouvel incendie se propage rapidement au nord de Los Angeles, attisé par les « vents », le « faible taux d’humidité » et les « broussailles » asséchées
+
+.N 4
+.D Thu, 23 Jan 2025 07:49:50 +0100
+.C  POLITIQUE
+.T La porte-parole du ministère de l’intérieur démissionne avant la parution de son livre, dans lequel elle critique le RN et le syndicat Alliance
+
+.N 5
+.D Thu, 23 Jan 2025 06:59:35 +0100
+.C  CULTURE
+.T En direct, guerre en Ukraine : un bombardement russe sur la ville de Zaporijia ravage des immeubles résidentiels
+
+.N 6
+.D Thu, 23 Jan 2025 05:29:15 +0100
+.C  SPORT
+.T Ligue des champions : le PSG renverse Manchester City après un match « dingue », un succès pour Luis Enrique
+
+.N 7
+.D Thu, 23 Jan 2025 07:32:52 +0100
+.C  ECONOMIE
+.T En direct, cessez-le-feu à Gaza : Donald Trump classe les rebelles houthistes du Yémen comme « organisation terroriste étrangère »
+
+.N 8
+.D Thu, 23 Jan 2025 01:29:49 +0100
+.C  ECONOMIE
+.T Six commerces « mitraillés » à la Kalachnikov en une semaine à Besançon, une stratégie « d’intimidation » liée au narcotrafic
+
+.N 9
+.D Thu, 23 Jan 2025 05:00:06 +0100
+.C  POLITIQUE
+.T Carole Delga, présidente socialiste de la région Occitanie : « Si l’union de la gauche n’est pas sincère, ce n’est qu’un marchandage, une tromperie »
+
+.N 10
+.D Thu, 23 Jan 2025 05:30:02 +0100
+.C  CULTURE
+.T L’amer exil de Wael Al-Dahdouh, le journaliste qui incarne la tragédie de Gaza
+
+.N 11
+.D Thu, 23 Jan 2025 00:50:42 +0100
+.C  POLITIQUE
+.T Une skieuse de 10 ans tuée après avoir heurté une paroi rocheuse sur le domaine de la station de Villard-de-Lans
+
+.N 12
+.D Thu, 23 Jan 2025 06:30:09 +0100
+.C  SCIENCES
+.T Des pierres de Soleil sacrifiées il y a 5 000 ans
+
+.N 13
+.D Thu, 23 Jan 2025 05:30:05 +0100
+.C  CULTURE
+.T Julia Cagé, économiste : « Banco pour la “banque de la démocratie” mais pas à n’importe quelles conditions ! »
+
+.N 14
+.D Thu, 23 Jan 2025 05:00:06 +0100
+.C  POLITIQUE
+.T En Italie, le gouvernement de Giorgia Meloni crée la polémique en libérant un officiel libyen recherché par la CPI
+
+.N 15
+.D Sat, 01 Apr 2023 06:00:21 +0200
+.C  CULTURE
+.T Quelles quantités d’eau sont prélevées et consommées par la population, les usines et l’agriculture en France ?
+
+.N 16
+.D Thu, 23 Jan 2025 06:23:20 +0100
+.C  SCIENCES
+.T En Corée du Sud, les enquêteurs demandent l’inculpation du président Yoon pour rébellion et abus de pouvoir
+
+.N 17
+.D Wed, 22 Jan 2025 15:02:00 +0100
+.C  POLITIQUE
+.T Allemagne : deux personnes, dont un enfant, tués par un homme armé d’un couteau
+
+.N 18
+.D Thu, 23 Jan 2025 01:03:39 +0100
+.C  POLITIQUE
+.T Au procès Sarkozy-Khadafi, Brice Hortefeux joue les « Candide » mais peine à expliquer sa visite en Libye en 2005
+

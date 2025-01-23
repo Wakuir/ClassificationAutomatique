@@ -1,0 +1,22 @@
+Sport:3
+Football:3
+Marathon:3
+Cyclisme:3
+Jeux olympiques:2
+Paris 2024:1
+Athlètes:3
+Basket-ball:3
+équipe:2
+equipe:2
+Gymnaste:3
+Course:2
+Aviron:3
+Ping-pong:3
+Défis:1
+Rugby:3
+Plongée:3
+Compétition:2
+Volley:3
+épreuves:1
+epreuves:1
+effort:2

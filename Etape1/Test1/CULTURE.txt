@@ -1,0 +1,22 @@
+Culture:3
+Cinéma:3
+Film:2
+Littérature:3
+Documentaire:2
+Groupe:2
+Musique:3
+Théâtre:3
+Opéra:3
+Collection:2
+Patrimoine:2
+Festival:2
+Dessin:3
+Bande dessinée:3
+Roman:3
+Concert:3
+Exposition:2
+Écrivain:2
+Ecrivain:2
+Galerie:2
+Artiste:3
+Fiction:2

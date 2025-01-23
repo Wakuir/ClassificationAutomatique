@@ -1,0 +1,90 @@
+.N 1
+.D Thu, 23 Jan 2025 12:02:15 +0100
+.C POLITIQUE
+.T Ce que contiennent les 42 directives signées par Donald Trump le jour de son investiture
+
+.N 2
+.D Thu, 23 Jan 2025 12:27:43 +0100
+.C POLITIQUE
+.T Jean-François Kahn, cofondateur de l’hebdomadaire « Marianne », est mort
+
+.N 3
+.D Thu, 23 Jan 2025 10:00:10 +0100
+.C SPORT
+.T L’incroyable fiasco de l’outil « Gérer mes biens immobiliers », qui a coûté 1,3 milliard d’euros à Bercy
+
+.N 4
+.D Thu, 23 Jan 2025 11:23:18 +0100
+.C ECONOMIE
+.T En direct, guerre en Ukraine : le Kremlin refuse de commenter la présence du navire espion « Yantar » dans les eaux britanniques, dénoncée par Londres
+
+.N 5
+.D Thu, 23 Jan 2025 11:59:20 +0100
+.C CULTURE
+.T En Cisjordanie, les nuits de terreur des villageois d’Al-Funduq
+
+.N 6
+.D Thu, 23 Jan 2025 09:56:46 +0100
+.C POLITIQUE
+.T Budget 2025 : Marine Tondelier dénonce les coupes sur l’écologie et promet de voter la censure du gouvernement Bayrou
+
+.N 7
+.D Thu, 23 Jan 2025 11:16:18 +0100
+.C ECONOMIE
+.T Une femme qui refuse des rapports sexuels à son mari ne doit pas être considérée comme « fautive » ; la France condamnée par la CEDH
+
+.N 8
+.D Thu, 23 Jan 2025 11:32:20 +0100
+.C ECONOMIE
+.T En direct, cessez-le-feu à Gaza : Israël salue le classement par les Etats-Unis des rebelles houthistes du Yémen comme une « organisation terroriste »
+
+.N 9
+.D Thu, 23 Jan 2025 10:08:03 +0100
+.C CULTURE
+.T Au Sénégal, « la plus grosse drague au monde » du français Eramet accusée de détruire le désert de Lompoul
+
+.N 10
+.D Thu, 23 Jan 2025 10:19:34 +0100
+.C ECONOMIE
+.T En Suède, la nonchalance surprenante du conseiller à la sécurité du premier ministre, qui oublie régulièrement des documents classifiés dans des lieux publics
+
+.N 11
+.D Thu, 23 Jan 2025 10:34:37 +0100
+.C POLITIQUE
+.T Le réquisitoire de François Bayrou contre les régions
+
+.N 12
+.D Thu, 23 Jan 2025 10:34:36 +0100
+.C POLITIQUE
+.T « On doit pouvoir payer au péage avec son téléphone » : Emmanuel Macron réagit après avoir été interpellé sur TikTok
+
+.N 13
+.D Thu, 23 Jan 2025 07:49:50 +0100
+.C POLITIQUE
+.T Camille Chaize, la porte-parole du ministère de l’intérieur démissionne avant la parution de son livre, dans lequel elle critique le RN et le syndicat Alliance
+
+.N 14
+.D Thu, 23 Jan 2025 11:30:03 +0100
+.C POLITIQUE
+.T « Le mot d’ordre de Stellantis est désormais : surtout ne pas se fâcher avec Donald Trump »
+
+.N 15
+.D Wed, 22 Jan 2025 22:47:54 +0100
+.C ECONOMIE
+.T Un nouvel incendie se propage rapidement au nord de Los Angeles, attisé par les « vents », le « faible taux d’humidité » et les « broussailles » asséchées
+
+.N 16
+.D Thu, 23 Jan 2025 12:00:42 +0100
+.C POLITIQUE
+.T Quand le parquet de Paris recadre Bruno Retailleau après l’annonce « prématurée » de l’arrestation d’un influenceur algérien
+
+.N 17
+.D Thu, 23 Jan 2025 11:14:05 +0100
+.C CULTURE
+.T Yuval Raphael, une survivante de l’attaque du Hamas contre le festival Tribe of Nova, représentera Israël à l’Eurovision
+
+.N 18
+.D Thu, 23 Jan 2025 12:30:10 +0100
+.C SPORT
+.T A Mayotte, vivier du sprint français, la communauté sportive se mobilise après le passage du cyclone Chido
+

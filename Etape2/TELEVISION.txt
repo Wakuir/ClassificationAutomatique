@@ -1,0 +1,12 @@
+un:1
+taux:1
+de:1
+vente:2
+important:2
+pour:1
+les:1
+télévision:3
+samsung:3
+et:1
+lg:3
+!:1
